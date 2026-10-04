@@ -1,0 +1,1928 @@
+{
+  "time": "2026-10-02T10:40:27.746Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-16.zdn.vn/gr/jpg/960416b6f96627387e77/1WUpukp6BGf02qZBI8sIJY00VYrcNXOon9QGs17x5sLH0xSNYJjup0hwrZDZCaIzJaf.jpg",
+    "thumb": "https://photo-stal-16.zdn.vn/gr/jpg/960416b6f96627387e77/1WUpukp6BGf02qZBI8sIJY00VYrcNXOon9QGs17x5sLH0xSNYJjup0hwrZDZCaIzJaf.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":1920,\"height\":2560,\"hd\":\"https:\\/\\/photo-stal-16.zdn.vn\\/gr\\/jpg\\/960416b6f96627387e77\\/1WUpukp6BGf02qZBI8sIJY00VYrcNXOon9QGs17x5sLH0xSNYJjup0hwrZDZCaIzJaf.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790937626700,\"id_in_group\":0,\"total_item_in_group\":6,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223652552132",
+    "msgId": "8330077395997",
+    "cliMsgId": "1790937627151",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790937627668",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":8,\"cl\":0,\"id\":\"07ab2378c9f9671756f526e2031a5a0a\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"55e1cf29f81f31e4744dde92d6403271\",\"ts\":1789958607989},\"ts\":1790925426881}"
+    },
+    "previewThumb": "AgAeABf/2gAMAwEAAhEDEQA/ANOSOSJijAgjiojk8YrsrkWt1P5rL9ccVX8uxgdpnGQnzEnnCgc1nYdzm/LEkaxxqAwyWZj19KT7JL6r/wB9CqcuoWWo6dNfWUTZLKEYAgnJGcY9KwfOu/7kv/j1JtIauz//0L0+uSWt3cI7Dy4ZGQkjvnp9RVsSSXEJljkYrMnf0YfpxXP+KNJV/EDMG2pMnnMB1yODj64rft9q2ccSjCoo2+w9K4KsmpWudlOKavYpWenLY2KWcTF1jJI3YyM1N5J9P0FXDMXg8lgNwPDd8elVvLf+9WbV9blrQ//Z",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790937626700}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:40:27.795Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-19.zdn.vn/gr/jpg/c47948cba71b7945200a/1WUpukp6BGeybzUFwrFxg4WqjNuHTOh11NyP8EzYT0mImhB2YM90S4QJjHi1cAqJ4SY.jpg",
+    "thumb": "https://photo-stal-19.zdn.vn/gr/jpg/c47948cba71b7945200a/1WUpukp6BGeybzUFwrFxg4WqjNuHTOh11NyP8EzYT0mImhB2YM90S4QJjHi1cAqJ4SY.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":1920,\"height\":2560,\"hd\":\"https:\\/\\/photo-stal-19.zdn.vn\\/gr\\/jpg\\/c47948cba71b7945200a\\/1WUpukp6BGeybzUFwrFxg4WqjNuHTOh11NyP8EzYT0mImhB2YM90S4QJjHi1cAqJ4SY.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790937626700,\"id_in_group\":1,\"total_item_in_group\":6,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223652578890",
+    "msgId": "8330077400284",
+    "cliMsgId": "1790937627175",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790937627717",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":8,\"cl\":0,\"id\":\"7ea93621d2e3ab433c34a5806d81440c\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"270fb40aadb4fedc2e79318b85251f4c\",\"ts\":1789958607990},\"ts\":1790925426771}"
+    },
+    "previewThumb": "AgAeABf/2gAMAwEAAhEDEQA/AOjvROgjezTzkyS20847U+G9tpRsc+Ww6hxg/rRaxB9YWd5GjieJy4DY+bcMHnvyatII3u51nZZoo3XZuC8AqOpx65rJx6lqRgRAfNLgtI5OeMADt1qTMn9w/mK2bkArlCCPaqW1qzLjoj//0OghtIrnUnNzIyrEDjBx97BNVXvrGymlimCoFBPmDJ3gdM+9Ubm4kS/mK+uP0rHlIuUPmjP1rjqaqx1wVjPu/EF21wbiBdlvjAHGT7ng1W/4Saf/ACR/8TUGsIiW6p0DsBx14Ga5zyYP7z/kKcIqwpt3P//Z",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790937626700}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:40:27.847Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-14.zdn.vn/gr/jpg/e27e63cc8c1c52420b0d/1WUpukp6BGf02qZBI8sIJY0SdesbbN5PURqyJzio4hDVRN4s4ZnBiebHsii89CML033.jpg",
+    "thumb": "https://photo-stal-14.zdn.vn/gr/jpg/e27e63cc8c1c52420b0d/1WUpukp6BGf02qZBI8sIJY0SdesbbN5PURqyJzio4hDVRN4s4ZnBiebHsii89CML033.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":1920,\"height\":2560,\"hd\":\"https:\\/\\/photo-stal-14.zdn.vn\\/gr\\/jpg\\/e27e63cc8c1c52420b0d\\/1WUpukp6BGf02qZBI8sIJY0SdesbbN5PURqyJzio4hDVRN4s4ZnBiebHsii89CML033.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790937626700,\"id_in_group\":2,\"total_item_in_group\":6,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223652604224",
+    "msgId": "8330077402241",
+    "cliMsgId": "1790937627197",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790937627778",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":8,\"cl\":0,\"id\":\"78658e706dc563f9974e4fc7be0deda0\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"891e4b690013e62bfedae54174108d97\",\"ts\":1789958607991},\"ts\":1790925426662}"
+    },
+    "previewThumb": "AgAeABf/2gAMAwEAAhEDEQA/AL8dksiLtxkgVIFuNi26BmVST7D1P6VqadJBLYMVQoindhgNwXHQ/TOKgh1q3ljkhgRozgj5+CQRjIHpU81gaM/7TgOLZBKUbaWZgFzjOBjJNM+13n/PCL/vo/4VDDrljo2jS3uBI4mcehJL4xn2HNZP/Cyrf/n2/X/61RdvYux//9CbRb2SSOVXc/MOAfQ9f1q3d+SYAs0QkZD+747H/wCvXOaNKFKTAZ3ruAPbPP8ASujaZ7ljNNzjt7VyttO502T0PM/E0c1nZWljJIWHzOFHAGep9evrXGc13+ukat4hZZRtSNAoA9hn+tV/7EsvQ/nWqlZamTjqf//Z",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790937626700}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:40:27.901Z",
+  "msgType": "chat.video.msg",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://video-stal-20.dlmd.me/gr/23336f9f804f5e11075e/1WUpukp6BGh7tcXxwgXnzghdFKcX3MnD3DQICODuD1JhUvHgY2EUICbtDBAuYRn1Fqw",
+    "thumb": "https://photo-stal-15.zdn.vn/gr/a40a29b8c66818364179/1WUpukp6BGf02qTy9qHBQWCr4xbjrr6uldtDzz3Oygnn69kH36sOlbKL2O9ZZoALoQd.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"duration\":36000,\"is_group_layout\":1,\"group_layout_id\":1790937626700,\"id_in_group\":3,\"total_item_in_group\":6,\"video_original_width\":0,\"video_original_height\":0,\"video_width\":720,\"video_height\":1280,\"video_rotation\":0,\"fileSize\":9690481,\"isHD\":1}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223652585731",
+    "msgId": "8330077405085",
+    "cliMsgId": "1790937627218",
+    "msgType": "chat.video.msg",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790937627821",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":8,\"cl\":0,\"id\":\"9ee760a733ac601fb51d34a66e50cf20\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"48f2b96d70685b2ed59f67a62535d0dd\",\"ts\":1789958607992},\"ts\":1790925427181}"
+    },
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790937626700}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:40:27.954Z",
+  "msgType": "chat.video.msg",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://video-stal-41.dlmd.me/gr/5dc2166ef9be27e07eaf/1WUpukp6BGh7tcXxwgXnzh5gYQNTi0f6rxletaUYdOKurPglx1u8ala0hrjsFn3pkgK",
+    "thumb": "https://photo-stal-15.zdn.vn/gr/6671e9c30613d84d8102/1WUpukp6BGeybzP2oYeqn2i9ap3owm9vueEGi3hvEHy0bIZI0mQDexzrcMuqc0bYOCl.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"duration\":37000,\"is_group_layout\":1,\"group_layout_id\":1790937626700,\"id_in_group\":4,\"total_item_in_group\":6,\"video_original_width\":0,\"video_original_height\":0,\"video_width\":720,\"video_height\":1280,\"video_rotation\":0,\"fileSize\":10080397,\"isHD\":1}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223652604302",
+    "msgId": "8330077408349",
+    "cliMsgId": "1790937627239",
+    "msgType": "chat.video.msg",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790937627896",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":8,\"cl\":0,\"id\":\"ade59656fb2e8cf191f208eb9a75d227\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"1bea6afac79b92caffe3ca562a74bb8d\",\"ts\":1789958607993},\"ts\":1790925427077}"
+    },
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790937626700}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:40:28.020Z",
+  "msgType": "chat.video.msg",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://video-stal-12.dlmd.me/gr/1a4393ee7c3ea260fb2f/1WUpukp6BGg16WjZT2rpQq3rDjWN5mNMp4JFnrxhOHRE2GVCsaHgBe1QUTKaeXvRWs5",
+    "thumb": "https://photo-stal-19.zdn.vn/gr/e0586eea813a5f64062b/1WUpukp6BGeybzP2oYeqn2j3KWu4pdGWAyYOlFni4dobcEfjbwStTSzkpe040Bbl3mF.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"duration\":34000,\"is_group_layout\":1,\"group_layout_id\":1790937626700,\"id_in_group\":5,\"total_item_in_group\":6,\"video_original_width\":0,\"video_original_height\":0,\"video_width\":720,\"video_height\":1280,\"video_rotation\":0,\"fileSize\":9168566,\"isHD\":1}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223652632583",
+    "msgId": "8330077409867",
+    "cliMsgId": "1790937627261",
+    "msgType": "chat.video.msg",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790937627921",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":8,\"cl\":0,\"id\":\"632528e7d06540aa28bbf3f96aafc99e\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"b033a9c2c11618924c6106ff9653886b\",\"ts\":1789958607994},\"ts\":1790925426973}"
+    },
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790937626700}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:40:42.081Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-16.zdn.vn/gr/jpg/960416b6f96627387e77/1WUpukp6BGf02qZBI8sIJY00VYrcNXOon9QGs17x5sLH0xSNYJjup0hwrZDZCaIzJaf.jpg",
+    "thumb": "https://photo-stal-16.zdn.vn/gr/jpg/960416b6f96627387e77/1WUpukp6BGf02qZBI8sIJY00VYrcNXOon9QGs17x5sLH0xSNYJjup0hwrZDZCaIzJaf.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":1920,\"height\":2560,\"hd\":\"https:\\/\\/photo-stal-16.zdn.vn\\/gr\\/jpg\\/960416b6f96627387e77\\/1WUpukp6BGf02qZBI8sIJY00VYrcNXOon9QGs17x5sLH0xSNYJjup0hwrZDZCaIzJaf.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790937640994,\"id_in_group\":0,\"total_item_in_group\":6,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223654504524",
+    "msgId": "8330078249118",
+    "cliMsgId": "1790937641446",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790937641894",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":8,\"cl\":0,\"id\":\"07ab2378c9f9671756f526e2031a5a0a\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"55e1cf29f81f31e4744dde92d6403271\",\"ts\":1789958607989},\"ts\":1790925426881}"
+    },
+    "previewThumb": "AgAeABf/2gAMAwEAAhEDEQA/ANOSOSJijAgjiojk8YrsrkWt1P5rL9ccVX8uxgdpnGQnzEnnCgc1nYdzm/LEkaxxqAwyWZj19KT7JL6r/wB9CqcuoWWo6dNfWUTZLKEYAgnJGcY9KwfOu/7kv/j1JtIauz//0L0+uSWt3cI7Dy4ZGQkjvnp9RVsSSXEJljkYrMnf0YfpxXP+KNJV/EDMG2pMnnMB1yODj64rft9q2ccSjCoo2+w9K4KsmpWudlOKavYpWenLY2KWcTF1jJI3YyM1N5J9P0FXDMXg8lgNwPDd8elVvLf+9WbV9blrQ//Z",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790937640994}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:40:42.086Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-19.zdn.vn/gr/jpg/c47948cba71b7945200a/1WUpukp6BGeybzUFwrFxg4WqjNuHTOh11NyP8EzYT0mImhB2YM90S4QJjHi1cAqJ4SY.jpg",
+    "thumb": "https://photo-stal-19.zdn.vn/gr/jpg/c47948cba71b7945200a/1WUpukp6BGeybzUFwrFxg4WqjNuHTOh11NyP8EzYT0mImhB2YM90S4QJjHi1cAqJ4SY.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":1920,\"height\":2560,\"hd\":\"https:\\/\\/photo-stal-19.zdn.vn\\/gr\\/jpg\\/c47948cba71b7945200a\\/1WUpukp6BGeybzUFwrFxg4WqjNuHTOh11NyP8EzYT0mImhB2YM90S4QJjHi1cAqJ4SY.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790937640994,\"id_in_group\":1,\"total_item_in_group\":6,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223654506664",
+    "msgId": "8330078253480",
+    "cliMsgId": "1790937641468",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790937641977",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":8,\"cl\":0,\"id\":\"7ea93621d2e3ab433c34a5806d81440c\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"270fb40aadb4fedc2e79318b85251f4c\",\"ts\":1789958607990},\"ts\":1790925426771}"
+    },
+    "previewThumb": "AgAeABf/2gAMAwEAAhEDEQA/AOjvROgjezTzkyS20847U+G9tpRsc+Ww6hxg/rRaxB9YWd5GjieJy4DY+bcMHnvyatII3u51nZZoo3XZuC8AqOpx65rJx6lqRgRAfNLgtI5OeMADt1qTMn9w/mK2bkArlCCPaqW1qzLjoj//0OghtIrnUnNzIyrEDjBx97BNVXvrGymlimCoFBPmDJ3gdM+9Ubm4kS/mK+uP0rHlIuUPmjP1rjqaqx1wVjPu/EF21wbiBdlvjAHGT7ng1W/4Saf/ACR/8TUGsIiW6p0DsBx14Ga5zyYP7z/kKcIqwpt3P//Z",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790937640994}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:40:42.093Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-14.zdn.vn/gr/jpg/e27e63cc8c1c52420b0d/1WUpukp6BGf02qZBI8sIJY0SdesbbN5PURqyJzio4hDVRN4s4ZnBiebHsii89CML033.jpg",
+    "thumb": "https://photo-stal-14.zdn.vn/gr/jpg/e27e63cc8c1c52420b0d/1WUpukp6BGf02qZBI8sIJY0SdesbbN5PURqyJzio4hDVRN4s4ZnBiebHsii89CML033.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":1920,\"height\":2560,\"hd\":\"https:\\/\\/photo-stal-14.zdn.vn\\/gr\\/jpg\\/e27e63cc8c1c52420b0d\\/1WUpukp6BGf02qZBI8sIJY0SdesbbN5PURqyJzio4hDVRN4s4ZnBiebHsii89CML033.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790937640994,\"id_in_group\":2,\"total_item_in_group\":6,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223654506685",
+    "msgId": "8330078253948",
+    "cliMsgId": "1790937641489",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790937641994",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":8,\"cl\":0,\"id\":\"78658e706dc563f9974e4fc7be0deda0\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"891e4b690013e62bfedae54174108d97\",\"ts\":1789958607991},\"ts\":1790925426662}"
+    },
+    "previewThumb": "AgAeABf/2gAMAwEAAhEDEQA/AL8dksiLtxkgVIFuNi26BmVST7D1P6VqadJBLYMVQoindhgNwXHQ/TOKgh1q3ljkhgRozgj5+CQRjIHpU81gaM/7TgOLZBKUbaWZgFzjOBjJNM+13n/PCL/vo/4VDDrljo2jS3uBI4mcehJL4xn2HNZP/Cyrf/n2/X/61RdvYux//9CbRb2SSOVXc/MOAfQ9f1q3d+SYAs0QkZD+747H/wCvXOaNKFKTAZ3ruAPbPP8ASujaZ7ljNNzjt7VyttO502T0PM/E0c1nZWljJIWHzOFHAGep9evrXGc13+ukat4hZZRtSNAoA9hn+tV/7EsvQ/nWqlZamTjqf//Z",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790937640994}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:40:42.148Z",
+  "msgType": "chat.video.msg",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://video-stal-20.dlmd.me/gr/23336f9f804f5e11075e/1WUpukp6BGh7tcXxwgXnzghdFKcX3MnD3DQICODuD1JhUvHgY2EUICbtDBAuYRn1Fqw",
+    "thumb": "https://photo-stal-15.zdn.vn/gr/a40a29b8c66818364179/1WUpukp6BGf02qTy9qHBQWCr4xbjrr6uldtDzz3Oygnn69kH36sOlbKL2O9ZZoALoQd.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"duration\":36000,\"is_group_layout\":1,\"group_layout_id\":1790937640994,\"id_in_group\":3,\"total_item_in_group\":6,\"video_original_width\":0,\"video_original_height\":0,\"video_width\":720,\"video_height\":1280,\"video_rotation\":0,\"fileSize\":9690481,\"isHD\":1}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223654506739",
+    "msgId": "8330078256568",
+    "cliMsgId": "1790937641510",
+    "msgType": "chat.video.msg",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790937642064",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":8,\"cl\":0,\"id\":\"9ee760a733ac601fb51d34a66e50cf20\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"48f2b96d70685b2ed59f67a62535d0dd\",\"ts\":1789958607992},\"ts\":1790925427181}"
+    },
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790937640994}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:40:42.179Z",
+  "msgType": "chat.video.msg",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://video-stal-41.dlmd.me/gr/5dc2166ef9be27e07eaf/1WUpukp6BGh7tcXxwgXnzh5gYQNTi0f6rxletaUYdOKurPglx1u8ala0hrjsFn3pkgK",
+    "thumb": "https://photo-stal-15.zdn.vn/gr/6671e9c30613d84d8102/1WUpukp6BGeybzP2oYeqn2i9ap3owm9vueEGi3hvEHy0bIZI0mQDexzrcMuqc0bYOCl.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"duration\":37000,\"is_group_layout\":1,\"group_layout_id\":1790937640994,\"id_in_group\":4,\"total_item_in_group\":6,\"video_original_width\":0,\"video_original_height\":0,\"video_width\":720,\"video_height\":1280,\"video_rotation\":0,\"fileSize\":10080397,\"isHD\":1}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223654504679",
+    "msgId": "8330078260247",
+    "cliMsgId": "1790937641531",
+    "msgType": "chat.video.msg",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790937642103",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":8,\"cl\":0,\"id\":\"ade59656fb2e8cf191f208eb9a75d227\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"1bea6afac79b92caffe3ca562a74bb8d\",\"ts\":1789958607993},\"ts\":1790925427077}"
+    },
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790937640994}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:40:42.227Z",
+  "msgType": "chat.video.msg",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://video-stal-12.dlmd.me/gr/1a4393ee7c3ea260fb2f/1WUpukp6BGg16WjZT2rpQq3rDjWN5mNMp4JFnrxhOHRE2GVCsaHgBe1QUTKaeXvRWs5",
+    "thumb": "https://photo-stal-19.zdn.vn/gr/e0586eea813a5f64062b/1WUpukp6BGeybzP2oYeqn2j3KWu4pdGWAyYOlFni4dobcEfjbwStTSzkpe040Bbl3mF.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"duration\":34000,\"is_group_layout\":1,\"group_layout_id\":1790937640994,\"id_in_group\":5,\"total_item_in_group\":6,\"video_original_width\":0,\"video_original_height\":0,\"video_width\":720,\"video_height\":1280,\"video_rotation\":0,\"fileSize\":9168566,\"isHD\":1}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223654502320",
+    "msgId": "8330078265246",
+    "cliMsgId": "1790937641554",
+    "msgType": "chat.video.msg",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790937642170",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":8,\"cl\":0,\"id\":\"632528e7d06540aa28bbf3f96aafc99e\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"b033a9c2c11618924c6106ff9653886b\",\"ts\":1789958607994},\"ts\":1790925426973}"
+    },
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790937640994}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:40:55.605Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-28.zdn.vn/gr/jpg/5f8d0998bf4e6110385f/2aOboR2ce9Pr0gQRSoxc2a4YMbv3CaSZhlVSK5xY.jpg",
+    "thumb": "https://photo-stal-28.zdn.vn/gr/jpg/5f8d0998bf4e6110385f/2aOboR2ce9Pr0gQRSoxc2a4YMbv3CaSZhlVSK5xY.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":2048,\"height\":1535,\"hd\":\"https:\\/\\/photo-stal-28.zdn.vn\\/gr\\/jpg\\/5f8d0998bf4e6110385f\\/2aOboR2ce9Pr0gQRSoxc2a4YMbv3CaSZhlVSK5xY.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790937654537,\"id_in_group\":0,\"total_item_in_group\":6,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223656304031",
+    "msgId": "8330079061878",
+    "cliMsgId": "1790937654989",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790937655405",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":3,\"cl\":0,\"id\":\"8371395fdea5992396359d624d8e70c1\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"92b62b199a134ae013f267dafe680ceb\",\"ts\":1790906010038},\"ts\":1790925436502}"
+    },
+    "previewThumb": "AgAXAB//2gAMAwEAAhEDEQA/AOqFxEUWIGRIy6ZSQCReGHRs5GO1bU5sypvY3UOmMsvPGeAR3FcRLKAVaJNhz0Gcnv0PP6V0stoqaXK9sjebKqZABycdufqa5oVW7pnVOklZl24eVyJJgPm6Feh+lY0d3HM6LHnDnAJHHQn+ldIhX7Iiy8EIOD2OK8xvjJqGjLauRGdw42+mea1dtzns72R//9DtU+zWDIzBIuu0Kv59K2Vm3IG7HkGud1f70P0b+VbcP/HtH/uj+VccGdElpcmeRQOawrh9PuU+chgfUH/Cteb7tcgv+qH4VZC3P//Z",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790937654537}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:40:55.613Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-18.zdn.vn/gr/jpg/0881388d8e5b5005094a/2aOboR2ce9VLZiFVvtKMDlnUtEtUVl6qTkx1G4yu.jpg",
+    "thumb": "https://photo-stal-18.zdn.vn/gr/jpg/0881388d8e5b5005094a/2aOboR2ce9VLZiFVvtKMDlnUtEtUVl6qTkx1G4yu.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":2048,\"height\":1536,\"hd\":\"https:\\/\\/photo-stal-18.zdn.vn\\/gr\\/jpg\\/0881388d8e5b5005094a\\/2aOboR2ce9VLZiFVvtKMDlnUtEtUVl6qTkx1G4yu.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790937654537,\"id_in_group\":1,\"total_item_in_group\":6,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223656357108",
+    "msgId": "8330079066260",
+    "cliMsgId": "1790937655012",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790937655468",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":3,\"cl\":0,\"id\":\"9534710b9549f2da558fa38e2f9c7c10\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"e0837c9efc1923b916978def5830b549\",\"ts\":1790906010143},\"ts\":1790925436824}"
+    },
+    "previewThumb": "AgAXAB//2gAMAwEAAhEDEQA/AOvF1HbBzKdqqASTwBuJA/lUskMZfzkJjkI+8vBP17H8a5XWUvLnTnFvL5Ts8fzc/d3ScVJpw1Kezltrq481vl2NjJUDr2zzXPGcEkmzacJ+9JI61pCjI0pBPGWTpjvkf/rqxfXcEEKxSk/veECgtnHPYHtRZmIQKrDadoBBGPaqcUUSXkcM/Pk7ngJ9GGCPqP5VspGbR//Q7SCyt3gHmKG578jgkjj8a0oxHEuFAHpgVBb/AOoH1P8AOpTXLFaI1k3dlgMrDBFQT2Mc4G1mjYchl6inp1q0OtUTc//Z",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790937654537}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:40:55.621Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-19.zdn.vn/gr/jpg/6befbb390defd3b18afe/2aOboR2ceADZ7hQkCuNeZdivbiCZxzd6Nyt1Qr9U.jpg",
+    "thumb": "https://photo-stal-19.zdn.vn/gr/jpg/6befbb390defd3b18afe/2aOboR2ceADZ7hQkCuNeZdivbiCZxzd6Nyt1Qr9U.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":2048,\"height\":1536,\"hd\":\"https:\\/\\/photo-stal-19.zdn.vn\\/gr\\/jpg\\/6befbb390defd3b18afe\\/2aOboR2ceADZ7hQkCuNeZdivbiCZxzd6Nyt1Qr9U.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790937654537,\"id_in_group\":2,\"total_item_in_group\":6,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223656326776",
+    "msgId": "8330079066993",
+    "cliMsgId": "1790937655033",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790937655523",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":3,\"cl\":0,\"id\":\"69adc5edf93c68b683eb0b1cca2f5a24\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"5442405c244d03c09e3a6dfc36c7cfb9\",\"ts\":1790906010245},\"ts\":1790925436913}"
+    },
+    "previewThumb": "AgAXAB//2gAMAwEAAhEDEQA/APSQ+W69qwZJJGlbbhW6Fm5bA7ADsK1AEWQueCQAT7DOP51zviC1urraNPLI2Ml0AJB3A9/pTnKyCKuy5M9lG4cuWZe8hBIPfA7fhVWG2llctEkjqSWUrhRz3BNVpLa9msooZpWDjcWLJyc+taNilk1uEndyY/k4Z1Hy4xwDgVk+WS31KTnGTTWh/9DuRtkPmY9hmpd2Khg/1Qp571i2WTlgVAxyKzrRj9vuokOGBR/wZcfzFXe1Z9n/AMhi7/65xf1qJtpXRUFd2Z//2Q==",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790937654537}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:40:55.679Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-29.zdn.vn/gr/jpg/efb57e76c8a016fe4fb1/2aOboR2ceAKwSAS0pwhZH0cCbMl7QmX8vX8ShBZo.jpg",
+    "thumb": "https://photo-stal-29.zdn.vn/gr/jpg/efb57e76c8a016fe4fb1/2aOboR2ceAKwSAS0pwhZH0cCbMl7QmX8vX8ShBZo.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":2048,\"height\":1536,\"hd\":\"https:\\/\\/photo-stal-29.zdn.vn\\/gr\\/jpg\\/efb57e76c8a016fe4fb1\\/2aOboR2ceAKwSAS0pwhZH0cCbMl7QmX8vX8ShBZo.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790937654537,\"id_in_group\":3,\"total_item_in_group\":6,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223656357983",
+    "msgId": "8330079072478",
+    "cliMsgId": "1790937655057",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790937655554",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":3,\"cl\":0,\"id\":\"498ee3387a3eedf217570a52982e7af4\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"15a017c95522db3a5ed87b7dfa84e45b\",\"ts\":1790906010402},\"ts\":1790925436630}"
+    },
+    "previewThumb": "AgAXAB//2gAMAwEAAhEDEQA/ANfTiw1KS4vAIh5GWVj90A9TkDHFTadfRyySLcTxMCxEYUjJGT6E54qm6z3V3qMDBd7WRUAHjJzjkgVyNj4X1KCyORGJiyOp9AvYmtJTinqyIwcloj1FYpLkn7EVbZw+TjBrn5tXSCIzyAbR3GTVzRW1C2t5orklWMjSYUggA44z1rBu9H1Ka1KqEBOMZcDvVwnTabbMa8asXBQXXU//0Nq0BOsXijq1soH61oRWt0IwpjPTHUf41Ssv+Q9c/wDXBP5mupj6VlXpqctTShUcFoZsNpO7OGXZle+DnmgxumC+DGoxjA69PrWwn3j9Kzp/9Q31/rUeyikkOVWTdz//2Q==",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790937654537}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:40:55.690Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-14.zdn.vn/gr/jpg/3bb2ab0e1dd8c3869ac9/2aOboR2ceAVSOMnbjawlVLC7AuhOvoIiuNqLE7aC.jpg",
+    "thumb": "https://photo-stal-14.zdn.vn/gr/jpg/3bb2ab0e1dd8c3869ac9/2aOboR2ceAVSOMnbjawlVLC7AuhOvoIiuNqLE7aC.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":2048,\"height\":1536,\"hd\":\"https:\\/\\/photo-stal-14.zdn.vn\\/gr\\/jpg\\/3bb2ab0e1dd8c3869ac9\\/2aOboR2ceAVSOMnbjawlVLC7AuhOvoIiuNqLE7aC.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790937654537,\"id_in_group\":4,\"total_item_in_group\":6,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223656357989",
+    "msgId": "8330079075846",
+    "cliMsgId": "1790937655081",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790937655627",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":3,\"cl\":0,\"id\":\"3e06cdc6435c43f7ad0f6dc260ba18e7\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"c59f037de6b00a4f9cfd717db4e09442\",\"ts\":1790906010443},\"ts\":1790925436711}"
+    },
+    "previewThumb": "AgAXAB//2gAMAwEAAhEDEQA/ANq0kljuZdPf5xCTtIHbOK1ljQn94So6cg1z+myXUFzJeXZVjKcYC7cZbPTLV2b+XNC0YycjsKycot6MtRml7xBFYRqwkuSDjBVe2ff1NYl3cSPMfNYttYgDsOoq3NBfTXkMjoyplNxBHGOtc3cSYnkGcgO3P4muetU0sjrowV7n/9DctQjSqrcjkmukinX7q8VzVn/rx9DW3D978a4aWx219zTYsDg9etZ89paXBzLGpPrjB/MVoy/6z/gIqr3rWaMIM//Z",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790937654537}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:40:55.770Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-18.zdn.vn/gr/jpg/55b147c5f2132c4d7502/2aOboR2ceBP8GGvWzFDqLd5uVMLW3uuevmTAmCqu.jpg",
+    "thumb": "https://photo-stal-18.zdn.vn/gr/jpg/55b147c5f2132c4d7502/2aOboR2ceBP8GGvWzFDqLd5uVMLW3uuevmTAmCqu.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":960,\"height\":720,\"hd\":\"https:\\/\\/photo-stal-18.zdn.vn\\/gr\\/jpg\\/55b147c5f2132c4d7502\\/2aOboR2ceBP8GGvWzFDqLd5uVMLW3uuevmTAmCqu.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790937654537,\"id_in_group\":5,\"total_item_in_group\":6,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223656367391",
+    "msgId": "8330079078415",
+    "cliMsgId": "1790937655104",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790937655683",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":3,\"cl\":0,\"id\":\"90b9673b92a74559c0d6fe1a6ad7ce7e\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"c82bac4edd3ff990850d901e7bbdd08c\",\"ts\":1790906010556},\"ts\":1790925437010}"
+    },
+    "previewThumb": "AgAXAB//2gAMAwEAAhEDEQA/AOh+ISE6dGF6nI/NWrc0GURadFH5nHlJIoPXa4zj8Dn8KzfH8ZbSUbpg/wDsrVTs7029hasyjYbKIF2OACQQB06k0pMaNzU5Y7mSzSNg3+lxE49iafdYLH6n+dYunuJL2CJIditdb2cY2swBznAHJ+la1xnJ+tVDUUtD/9DvPGcJn0kIP88VyVrqL2lvaQ+Wsim0j4OPvKWwec123ir/AJBo/GvOW+5Z/wDXsv8ANqmQzZ8Nfavt0UFxIWAlMw+pUg10dy7xsGjOD2NYXh//AJCsX0/pW5d9RWkNiWf/2Q==",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790937654537}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:41:05.745Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-28.zdn.vn/gr/jpg/6db3c7810d57d3098a46/2aOboR2ceLbS9nisxfOYbk3gHxsxLSWF5hiRorom.jpg",
+    "thumb": "https://photo-stal-28.zdn.vn/gr/jpg/6db3c7810d57d3098a46/2aOboR2ceLbS9nisxfOYbk3gHxsxLSWF5hiRorom.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":2048,\"height\":1368,\"hd\":\"https:\\/\\/photo-stal-28.zdn.vn\\/gr\\/jpg\\/6db3c7810d57d3098a46\\/2aOboR2ceLbS9nisxfOYbk3gHxsxLSWF5hiRorom.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790937664855,\"id_in_group\":0,\"total_item_in_group\":4,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223657726886",
+    "msgId": "8330079682828",
+    "cliMsgId": "1790937665307",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790937665643",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":3,\"cl\":0,\"id\":\"b77e2d320ef85b4da25d1d015506b4b2\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"56b6269b4504692bfdc1710ec9a86a42\",\"ts\":1790906026359},\"ts\":1790925442848}"
+    },
+    "previewThumb": "AgARABj/2gAMAwEAAhEDEQA/AG6RcxagHkePCRrnD4+8emPeu41+bTbOH95EsZdgAFUZJzjt65rza2VocwyAqNw6d+M9vrWr4kuoZZzayoyiBshk74IPIP09aypO0FdGcZyqSk5FB8rqlyVUJIF8xDxjK4ON2e44p/8AbGr/ANxPz/8Ar1m3M3lWuQzDdnIIweaxfOi9a1cUnZGkZNq7P//QZd/8e3/Ak/8AQUqt4j/4/J/of5VZu/8Aj2/4En/oKVW8R/8AH5P9D/Ks5fw4/P8AMnDfHP1Mi/8A+QbH/n0rmq6W/wD+QbH/AJ9K5qqjsWf/2Q==",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790937664855}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:41:05.751Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-29.zdn.vn/gr/jpg/4697c0b90a6fd4318d7e/2aOboR2ceLi5Geqx1l6qGhgj4wZNnRiESPUdOf0i.jpg",
+    "thumb": "https://photo-stal-29.zdn.vn/gr/jpg/4697c0b90a6fd4318d7e/2aOboR2ceLi5Geqx1l6qGhgj4wZNnRiESPUdOf0i.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":2048,\"height\":1366,\"hd\":\"https:\\/\\/photo-stal-29.zdn.vn\\/gr\\/jpg\\/4697c0b90a6fd4318d7e\\/2aOboR2ceLi5Geqx1l6qGhgj4wZNnRiESPUdOf0i.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790937664855,\"id_in_group\":1,\"total_item_in_group\":4,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223657723304",
+    "msgId": "8330079681691",
+    "cliMsgId": "1790937665329",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790937665665",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":3,\"cl\":0,\"id\":\"9332444a080901121ab3015e47b8c3c8\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"181b4381be823293adacc43c8e7e88a5\",\"ts\":1790906026358},\"ts\":1790925443156}"
+    },
+    "previewThumb": "AgAUAB7/2gAMAwEAAhEDEQA/APWL6UJYyOTjA61xq3F2TmGZWXr1x/M1r67PjRZz7V57Ys13KkcEhWQHLK2NrDIwBnvXPOdpKJrGK5HI9D0i4Z5v9KkAfOFTI9OuMnNdOz4NeRWr3MWsiGRQj7cADHBXkEYHrzXpEF4LmISjjPUeh7ittnYxTulI/9DtJz9oLW0uDHxlexz602CytIW3xRIpGOQAKD/x8P8AQVZTpXI/iNF8Ji6tHGjrfKo81WChu+DwRVjR7iR2lB6HDficg/yqHWP+Pcf76/zpNF+/J/ur/M1UX74re4f/2Q==",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790937664855}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:41:05.791Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-18.zdn.vn/gr/jpg/b8fcf5dc3f0ae154b81b/2aOboR2ceLkRDxLhEDYIuvQ2VIACz0zKyNr2gWlk.jpg",
+    "thumb": "https://photo-stal-18.zdn.vn/gr/jpg/b8fcf5dc3f0ae154b81b/2aOboR2ceLkRDxLhEDYIuvQ2VIACz0zKyNr2gWlk.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":960,\"height\":718,\"hd\":\"https:\\/\\/photo-stal-18.zdn.vn\\/gr\\/jpg\\/b8fcf5dc3f0ae154b81b\\/2aOboR2ceLkRDxLhEDYIuvQ2VIACz0zKyNr2gWlk.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790937664855,\"id_in_group\":2,\"total_item_in_group\":4,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223657729209",
+    "msgId": "8330079688470",
+    "cliMsgId": "1790937665351",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790937665716",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":3,\"cl\":0,\"id\":\"42e8f42e8d78f0bce429aaf09072a150\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"601fce3c32ef95aa5e018f8647c51b1b\",\"ts\":1790906026443},\"ts\":1790925443049}"
+    },
+    "previewThumb": "AgASABj/2gAMAwEAAhEDEQA/AOnudkNjc3sXyTKDhh14AxnsR9aq291HqOnn7UzO/RhGDgY/nS32nRPpd5fnJfBUenboOpNSW0U1np5Ns42spZlcc5Poe1TOUUlzPqFpOXu7WEu4bO405I1dY5IhlN3b2IB5z+lc/wDZbj/nrF+X/wBenOShbzSR39R+Yqv58f8AeNbqhBpapmarSP/Q7LSvnmuQ3O3bjPbI7U3UeGbHoKfpH+vuv+A/ypmo/eb6LWVfZepdPd+hi6uqrcThQB8vauYya6jWP+Pif/drlqdDZ+pGK+Jei/I//9k=",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790937664855}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:41:05.835Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-30.zdn.vn/gr/jpg/ac03a32669f0b7aeeee1/2aOboR2ceLnvj59R1hLJ2vJ6JM4upVo6DL37oW9I.jpg",
+    "thumb": "https://photo-stal-30.zdn.vn/gr/jpg/ac03a32669f0b7aeeee1/2aOboR2ceLnvj59R1hLJ2vJ6JM4upVo6DL37oW9I.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":960,\"height\":718,\"hd\":\"https:\\/\\/photo-stal-30.zdn.vn\\/gr\\/jpg\\/ac03a32669f0b7aeeee1\\/2aOboR2ceLnvj59R1hLJ2vJ6JM4upVo6DL37oW9I.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790937664855,\"id_in_group\":3,\"total_item_in_group\":4,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223657723390",
+    "msgId": "8330079691071",
+    "cliMsgId": "1790937665372",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790937665775",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":3,\"cl\":0,\"id\":\"d604154dd3164f3703ab3c002cf35b84\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"c2fdce233a91585beef29dbba00f00ca\",\"ts\":1790906026544},\"ts\":1790925442953}"
+    },
+    "previewThumb": "AgAXAB//2gAMAwEAAhEDEQA/ANPQSotJE81tonkWPGSAq4HUZzn3reWS4XoQ6jqfT/P0pms+TZzxCFVjDbiQoA5454rnNTNzeQxyQnCROS59tp69sH371j7Z8/IX7P3eY9HtQqLnvRNJmuZ8OX4n09A2AewHof8AJroGUnmulTRlyn//0O7ubGG/lV5wW2ZAGcfWpIrS3iVkjQAHqMdasQ9T9TR3NRZXuNt7GBfRR2QH2UmIyEn5SRyOePSsRvFc9lOLe8TzgRkN0b8cDH6Vu61/yx/4F/KvNNa/4/Y/9yuaf8SxvFe5c//Z",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790937664855}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:46:42.647Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-16.zdn.vn/gr/jpg/960416b6f96627387e77/1WUpukp6BGf02qZBI8sIJY00VYrcNXOon9QGs17x5sLH0xSNYJjup0hwrZDZCaIzJaf.jpg",
+    "thumb": "https://photo-stal-16.zdn.vn/gr/jpg/960416b6f96627387e77/1WUpukp6BGf02qZBI8sIJY00VYrcNXOon9QGs17x5sLH0xSNYJjup0hwrZDZCaIzJaf.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":1920,\"height\":2560,\"hd\":\"https:\\/\\/photo-stal-16.zdn.vn\\/gr\\/jpg\\/960416b6f96627387e77\\/1WUpukp6BGf02qZBI8sIJY00VYrcNXOon9QGs17x5sLH0xSNYJjup0hwrZDZCaIzJaf.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790938001551,\"id_in_group\":0,\"total_item_in_group\":6,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223702392083",
+    "msgId": "8330099833408",
+    "cliMsgId": "1790938002014",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790938002465",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":8,\"cl\":0,\"id\":\"07ab2378c9f9671756f526e2031a5a0a\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"55e1cf29f81f31e4744dde92d6403271\",\"ts\":1789958607989},\"ts\":1790925426881}"
+    },
+    "previewThumb": "AgAeABf/2gAMAwEAAhEDEQA/ANOSOSJijAgjiojk8YrsrkWt1P5rL9ccVX8uxgdpnGQnzEnnCgc1nYdzm/LEkaxxqAwyWZj19KT7JL6r/wB9CqcuoWWo6dNfWUTZLKEYAgnJGcY9KwfOu/7kv/j1JtIauz//0L0+uSWt3cI7Dy4ZGQkjvnp9RVsSSXEJljkYrMnf0YfpxXP+KNJV/EDMG2pMnnMB1yODj64rft9q2ccSjCoo2+w9K4KsmpWudlOKavYpWenLY2KWcTF1jJI3YyM1N5J9P0FXDMXg8lgNwPDd8elVvLf+9WbV9blrQ//Z",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790938001551}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:46:42.652Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-19.zdn.vn/gr/jpg/c47948cba71b7945200a/1WUpukp6BGeybzUFwrFxg4WqjNuHTOh11NyP8EzYT0mImhB2YM90S4QJjHi1cAqJ4SY.jpg",
+    "thumb": "https://photo-stal-19.zdn.vn/gr/jpg/c47948cba71b7945200a/1WUpukp6BGeybzUFwrFxg4WqjNuHTOh11NyP8EzYT0mImhB2YM90S4QJjHi1cAqJ4SY.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":1920,\"height\":2560,\"hd\":\"https:\\/\\/photo-stal-19.zdn.vn\\/gr\\/jpg\\/c47948cba71b7945200a\\/1WUpukp6BGeybzUFwrFxg4WqjNuHTOh11NyP8EzYT0mImhB2YM90S4QJjHi1cAqJ4SY.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790938001551,\"id_in_group\":1,\"total_item_in_group\":6,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223702363379",
+    "msgId": "8330099835482",
+    "cliMsgId": "1790938002041",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790938002516",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":8,\"cl\":0,\"id\":\"7ea93621d2e3ab433c34a5806d81440c\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"270fb40aadb4fedc2e79318b85251f4c\",\"ts\":1789958607990},\"ts\":1790925426771}"
+    },
+    "previewThumb": "AgAeABf/2gAMAwEAAhEDEQA/AOjvROgjezTzkyS20847U+G9tpRsc+Ww6hxg/rRaxB9YWd5GjieJy4DY+bcMHnvyatII3u51nZZoo3XZuC8AqOpx65rJx6lqRgRAfNLgtI5OeMADt1qTMn9w/mK2bkArlCCPaqW1qzLjoj//0OghtIrnUnNzIyrEDjBx97BNVXvrGymlimCoFBPmDJ3gdM+9Ubm4kS/mK+uP0rHlIuUPmjP1rjqaqx1wVjPu/EF21wbiBdlvjAHGT7ng1W/4Saf/ACR/8TUGsIiW6p0DsBx14Ga5zyYP7z/kKcIqwpt3P//Z",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790938001551}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:46:42.657Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-14.zdn.vn/gr/jpg/e27e63cc8c1c52420b0d/1WUpukp6BGf02qZBI8sIJY0SdesbbN5PURqyJzio4hDVRN4s4ZnBiebHsii89CML033.jpg",
+    "thumb": "https://photo-stal-14.zdn.vn/gr/jpg/e27e63cc8c1c52420b0d/1WUpukp6BGf02qZBI8sIJY0SdesbbN5PURqyJzio4hDVRN4s4ZnBiebHsii89CML033.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":1920,\"height\":2560,\"hd\":\"https:\\/\\/photo-stal-14.zdn.vn\\/gr\\/jpg\\/e27e63cc8c1c52420b0d\\/1WUpukp6BGf02qZBI8sIJY0SdesbbN5PURqyJzio4hDVRN4s4ZnBiebHsii89CML033.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790938001551,\"id_in_group\":2,\"total_item_in_group\":6,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223702392150",
+    "msgId": "8330099839403",
+    "cliMsgId": "1790938002065",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790938002572",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":8,\"cl\":0,\"id\":\"78658e706dc563f9974e4fc7be0deda0\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"891e4b690013e62bfedae54174108d97\",\"ts\":1789958607991},\"ts\":1790925426662}"
+    },
+    "previewThumb": "AgAeABf/2gAMAwEAAhEDEQA/AL8dksiLtxkgVIFuNi26BmVST7D1P6VqadJBLYMVQoindhgNwXHQ/TOKgh1q3ljkhgRozgj5+CQRjIHpU81gaM/7TgOLZBKUbaWZgFzjOBjJNM+13n/PCL/vo/4VDDrljo2jS3uBI4mcehJL4xn2HNZP/Cyrf/n2/X/61RdvYux//9CbRb2SSOVXc/MOAfQ9f1q3d+SYAs0QkZD+747H/wCvXOaNKFKTAZ3ruAPbPP8ASujaZ7ljNNzjt7VyttO502T0PM/E0c1nZWljJIWHzOFHAGep9evrXGc13+ukat4hZZRtSNAoA9hn+tV/7EsvQ/nWqlZamTjqf//Z",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790938001551}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:46:42.696Z",
+  "msgType": "chat.video.msg",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://video-stal-20.dlmd.me/gr/23336f9f804f5e11075e/1WUpukp6BGh7tcXxwgXnzghdFKcX3MnD3DQICODuD1JhUvHgY2EUICbtDBAuYRn1Fqw",
+    "thumb": "https://photo-stal-15.zdn.vn/gr/a40a29b8c66818364179/1WUpukp6BGf02qTy9qHBQWCr4xbjrr6uldtDzz3Oygnn69kH36sOlbKL2O9ZZoALoQd.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"duration\":36000,\"is_group_layout\":1,\"group_layout_id\":1790938001551,\"id_in_group\":3,\"total_item_in_group\":6,\"video_original_width\":0,\"video_original_height\":0,\"video_width\":720,\"video_height\":1280,\"video_rotation\":0,\"fileSize\":9690481,\"isHD\":1}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223702392178",
+    "msgId": "8330099841053",
+    "cliMsgId": "1790938002087",
+    "msgType": "chat.video.msg",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790938002622",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":8,\"cl\":0,\"id\":\"9ee760a733ac601fb51d34a66e50cf20\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"48f2b96d70685b2ed59f67a62535d0dd\",\"ts\":1789958607992},\"ts\":1790925427181}"
+    },
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790938001551}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:46:42.800Z",
+  "msgType": "chat.video.msg",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://video-stal-12.dlmd.me/gr/1a4393ee7c3ea260fb2f/1WUpukp6BGg16WjZT2rpQq3rDjWN5mNMp4JFnrxhOHRE2GVCsaHgBe1QUTKaeXvRWs5",
+    "thumb": "https://photo-stal-19.zdn.vn/gr/e0586eea813a5f64062b/1WUpukp6BGeybzP2oYeqn2j3KWu4pdGWAyYOlFni4dobcEfjbwStTSzkpe040Bbl3mF.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"duration\":34000,\"is_group_layout\":1,\"group_layout_id\":1790938001551,\"id_in_group\":5,\"total_item_in_group\":6,\"video_original_width\":0,\"video_original_height\":0,\"video_width\":720,\"video_height\":1280,\"video_rotation\":0,\"fileSize\":9168566,\"isHD\":1}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223702409642",
+    "msgId": "8330099848558",
+    "cliMsgId": "1790938002131",
+    "msgType": "chat.video.msg",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790938002724",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":8,\"cl\":0,\"id\":\"632528e7d06540aa28bbf3f96aafc99e\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"b033a9c2c11618924c6106ff9653886b\",\"ts\":1789958607994},\"ts\":1790925426973}"
+    },
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790938001551}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:46:42.802Z",
+  "msgType": "chat.video.msg",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://video-stal-41.dlmd.me/gr/5dc2166ef9be27e07eaf/1WUpukp6BGh7tcXxwgXnzh5gYQNTi0f6rxletaUYdOKurPglx1u8ala0hrjsFn3pkgK",
+    "thumb": "https://photo-stal-15.zdn.vn/gr/6671e9c30613d84d8102/1WUpukp6BGeybzP2oYeqn2i9ap3owm9vueEGi3hvEHy0bIZI0mQDexzrcMuqc0bYOCl.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"duration\":37000,\"is_group_layout\":1,\"group_layout_id\":1790938001551,\"id_in_group\":4,\"total_item_in_group\":6,\"video_original_width\":0,\"video_original_height\":0,\"video_width\":720,\"video_height\":1280,\"video_rotation\":0,\"fileSize\":10080397,\"isHD\":1}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223702392252",
+    "msgId": "8330099845953",
+    "cliMsgId": "1790938002109",
+    "msgType": "chat.video.msg",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790938002680",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":8,\"cl\":0,\"id\":\"ade59656fb2e8cf191f208eb9a75d227\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"1bea6afac79b92caffe3ca562a74bb8d\",\"ts\":1789958607993},\"ts\":1790925427077}"
+    },
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790938001551}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T10:46:47.780Z",
+  "msgType": "chat.video.msg",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://video-stal-12.dlmd.me/gr/6091e6e0e4323a6c6323/2aOboR2dHsmhCp3rd8vIKxVMYuFvCjxO18SNaULY",
+    "thumb": "https://photo-stal-18.zdn.vn/gr/f32f454c479e99c0c08f/2aOboR2dHszPN0r4PzXzlljizoY09IA61Hlu0RkG.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"duration\":82000,\"is_group_layout\":0,\"video_original_width\":0,\"video_original_height\":0,\"video_width\":368,\"video_height\":640,\"video_rotation\":0,\"fileSize\":7878664,\"isHD\":1}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14223703061238",
+    "msgId": "8330100144572",
+    "cliMsgId": "1790938007509",
+    "msgType": "chat.video.msg",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790938007704",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":3,\"cl\":0,\"id\":\"7378f4ab98617429b9137da57ccc38cb\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"d8c7e392832e254ee16519a9196f8732\",\"ts\":1790909899423},\"ts\":1790925467040}"
+    },
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{"msgType":"chat.video.msg","content":{"title":"","description":"","href":"https://video-stal-18.dlmd.me/gr/43cb7315adf373ad2ae2/1LE6Kr0BiWvXkQRzpVbnCTpIGdmKAKdA0MlRry3vXmyva5nDk4Ob6jzliSfi7s2","thumb":"https://photo-stal-2.zdn.vn/no/eb36cfef1109cf579618/1WUpukp82aUI0b0kj9EaX5ILkNVAYJbw78zSHLxn9gUEcsHpJfDtFc46jNWolmufuZK.jpg","childnumber":0,"action":"","params":"{\"duration\":37000,\"is_group_layout\":1,\"group_layout_id\":1790938489347,\"id_in_group\":0,\"total_item_in_group\":7,\"video_original_width\":0,\"video_original_height\":0,\"video_width\":720,\"video_height\":1280,\"video_rotation\":0,\"fileSize\":10024181,\"isHD\":0}","type":""},"extra":{"actionId":"14223766177014","msgId":"8330129044950","cliMsgId":"1790938489796","msgType":"chat.video.msg","uidFrom":"1661699209866784350","idTo":"6853631462700709197","dName":"Lâm Tùng","ts":"1790938490321","status":1,"notify":"1","ttl":0,"userId":"0","uin":"0","topOut":"0","topOutTimeOut":"0","topOutImprTimeOut":"0","propertyExt":{"color":-2147483648,"size":-1,"type":1,"subType":0,"ext":"{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"},"paramsExt":{"countUnread":1,"containType":0,"platformType":0},"reference":{"type":3,"data":"{\"logSrcType\":2,\"fwLvl\":5,\"cl\":0,\"id\":\"0c14e20b531eeb4a7abbdc821707b009\",\"rootMsgRef\":{\"logSrcType\":2,\"id\":\"4a4d392ac3f94bf1c09ef9cbf263f427\",\"ts\":1790761861771},\"ts\":1790839958469}"},"extraData":"{\"groupMediaMsg\":{\"groupLayoutId\":1790938489347}}","cmd":521,"st":3,"at":0,"realMsgId":"0"}}
+-----
+{"msgType":"chat.photo","content":{"title":"","description":"","href":"https://photo-stal-36.zdn.vn/gr/jpg/9202b7db693db763ee2c/1WUpukp82aUI0bQoOeE8yDXgq8Ku3JtVKuEXcxTzvn7EDrynC2NoGlXB3HjunI4W1vX.jpg","thumb":"https://photo-stal-36.zdn.vn/gr/jpg/9202b7db693db763ee2c/1WUpukp82aUI0bQoOeE8yDXgq8Ku3JtVKuEXcxTzvn7EDrynC2NoGlXB3HjunI4W1vX.jpg","childnumber":0,"action":"","params":"{\"width\":960,\"height\":1280,\"is_group_layout\":1,\"group_layout_id\":1790938489347,\"id_in_group\":1,\"total_item_in_group\":7,\"contentId\":\"1000011048\",\"convertible\":\"jxl\",\"is_original\":0}","type":""},"extra":{"actionId":"14223766194551","msgId":"8330129047539","cliMsgId":"1790938489818","msgType":"chat.photo","uidFrom":"1661699209866784350","idTo":"6853631462700709197","dName":"Lâm Tùng","ts":"1790938490362","status":1,"notify":"1","ttl":0,"userId":"0","uin":"0","topOut":"0","topOutTimeOut":"0","topOutImprTimeOut":"0","propertyExt":{"color":-2147483648,"size":-1,"type":1,"subType":0,"ext":"{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"},"paramsExt":{"countUnread":1,"containType":0,"platformType":0},"reference":{"type":3,"data":"{\"logSrcType\":2,\"fwLvl\":5,\"cl\":0,\"id\":\"b691e02a55f6ff963474dfb26b86057f\",\"rootMsgRef\":{\"logSrcType\":2,\"id\":\"5b7c25446ba5dc817491164fda2c5469\",\"ts\":1790761861878},\"ts\":1790839958352}"},"previewThumb":"AwAeABf/2gAMAwEAAhEDEQA/AL1pZJNEinggDBFICw+bUOkmMlcBvWgCnc2spRX8wBWAICj1oAls5SscW37zBaALGo7ZoIkxjkEZPNIZTlyumefLMVwxjVDgDAYgY79AKLgQafKR5IYcgDv1piNF2VriNZGGBnOTjjBp2FchuLAzQbIn+0Rty0YIHPHvSsMy7P5JFx600I0Z2OS2cHnpVkmRd3MikxoShVj8w71mWP/Z","extraData":"{\"groupMediaMsg\":{\"groupLayoutId\":1790938489347}}","cmd":521,"st":3,"at":0,"realMsgId":"0"}}
+-----
+{"msgType":"chat.photo","content":{"title":"","description":"","href":"https://photo-stal-35.zdn.vn/gr/jpg/fde0dd3903dfdd8184ce/1WUpukp82aUI0bQoOeE8yDVmARHR9bk1Gn5WgII5U4g3uhgBH2YfIt0E3PW4T6ocmTl.jpg","thumb":"https://photo-stal-35.zdn.vn/gr/jpg/fde0dd3903dfdd8184ce/1WUpukp82aUI0bQoOeE8yDVmARHR9bk1Gn5WgII5U4g3uhgBH2YfIt0E3PW4T6ocmTl.jpg","childnumber":0,"action":"","params":"{\"width\":960,\"height\":1280,\"is_group_layout\":1,\"group_layout_id\":1790938489347,\"id_in_group\":2,\"total_item_in_group\":7,\"contentId\":\"1000011047\",\"convertible\":\"jxl\",\"is_original\":0}","type":""},"extra":{"actionId":"14223766198365","msgId":"8330129050745","cliMsgId":"1790938489840","msgType":"chat.photo","uidFrom":"1661699209866784350","idTo":"6853631462700709197","dName":"Lâm Tùng","ts":"1790938490420","status":1,"notify":"1","ttl":0,"userId":"0","uin":"0","topOut":"0","topOutTimeOut":"0","topOutImprTimeOut":"0","propertyExt":{"color":-2147483648,"size":-1,"type":1,"subType":0,"ext":"{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"},"paramsExt":{"countUnread":1,"containType":0,"platformType":0},"reference":{"type":3,"data":"{\"logSrcType\":2,\"fwLvl\":5,\"cl\":0,\"id\":\"cfadb0ce197ab06167f4887a26d358ee\",\"rootMsgRef\":{\"logSrcType\":2,\"id\":\"5aa9ffe9503bce85d13865053b540bc5\",\"ts\":1790761862023},\"ts\":1790839958557}"},"previewThumb":"AwAeABf/2gAMAwEAAhEDEQA/ALluWaUqDlcZBxUjLQTJoAikITqcUxFK0CJrxj4xJCQPY9f6UluHQuW43SzpLPIqrsCkEZGSR3/CqAoyqv8AadyqyvIiBQCxz1GaTDYj0vzJ9VhnS2m2LuDTSt1+UgYA4HX3pbBuX3RYJH86VWLFSVTggg5HJ/HtTTuBVkjYTSGOQSb8EZGCAAB/QU7CNYN5SfKtZFHH35khu5XSXG5ySM/zFWmAtlqMizLlC/X7o61QgP/Z","extraData":"{\"groupMediaMsg\":{\"groupLayoutId\":1790938489347}}","cmd":521,"st":3,"at":0,"realMsgId":"0"}}
+-----
+{"msgType":"chat.photo","content":{"title":"","description":"","href":"https://photo-stal-33.zdn.vn/gr/jpg/6ac1491897fe49a010ef/1WUpukp82aUI0bQoOeE8yDWspeFmA2mUSRYdfWrCfTTswbARyriXAo5ugr9263KnV0G.jpg","thumb":"https://photo-stal-33.zdn.vn/gr/jpg/6ac1491897fe49a010ef/1WUpukp82aUI0bQoOeE8yDWspeFmA2mUSRYdfWrCfTTswbARyriXAo5ugr9263KnV0G.jpg","childnumber":0,"action":"","params":"{\"width\":960,\"height\":1280,\"is_group_layout\":1,\"group_layout_id\":1790938489347,\"id_in_group\":3,\"total_item_in_group\":7,\"contentId\":\"1000011046\",\"convertible\":\"jxl\",\"is_original\":0}","type":""},"extra":{"actionId":"14223766228432","msgId":"8330129053464","cliMsgId":"1790938489861","msgType":"chat.photo","uidFrom":"1661699209866784350","idTo":"6853631462700709197","dName":"Lâm Tùng","ts":"1790938490484","status":1,"notify":"1","ttl":0,"userId":"0","uin":"0","topOut":"0","topOutTimeOut":"0","topOutImprTimeOut":"0","propertyExt":{"color":-2147483648,"size":-1,"type":1,"subType":0,"ext":"{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"},"paramsExt":{"countUnread":1,"containType":0,"platformType":0},"reference":{"type":3,"data":"{\"logSrcType\":2,\"fwLvl\":5,\"cl\":0,\"id\":\"cbae2ab9218bc4f2d45a3bbb4a84b6b5\",\"rootMsgRef\":{\"logSrcType\":2,\"id\":\"addc18e8267dd008d593e64be22a3dd6\",\"ts\":1790761862206},\"ts\":1790839958664}"},"previewThumb":"AwAeABf/2gAMAwEAAhEDEQA/ANu5g8+IpnAI6ipKIFg2KF3ZI7mgQ8QF3McbLkdWxkCmIqTBLfUJ8TFISEI3PwM5z196bYGhamD7SAtykrFSQqkHFIB7X0SXDRrBI7YySgHr7kUrjsYd1e2wcl4WLdDvyc/XNO6BIfpO8zG7VQMgqqD5RipvqFjO1DbJfypcGYR/ebZzt5OOKqOrCVkrnYTBHwGjDZHeoY0QGFE+4oXj0qRmNqWIbwbV3GZcHC5IK9DjvwxH5elXEV11VwD/2Q==","extraData":"{\"groupMediaMsg\":{\"groupLayoutId\":1790938489347}}","cmd":521,"st":3,"at":0,"realMsgId":"0"}}
+-----
+{"msgType":"chat.photo","content":{"title":"","description":"","href":"https://photo-stal-10.zdn.vn/gr/jpg/93cdb1146ff2b1ace8e3/1WUpukp82aUI0bQoOeE8yDX90wsZ1FAMKoPNLo0I5xhV2hbYPN3hptGiHRBz9weDIov.jpg","thumb":"https://photo-stal-10.zdn.vn/gr/jpg/93cdb1146ff2b1ace8e3/1WUpukp82aUI0bQoOeE8yDX90wsZ1FAMKoPNLo0I5xhV2hbYPN3hptGiHRBz9weDIov.jpg","childnumber":0,"action":"","params":"{\"width\":960,\"height\":1280,\"is_group_layout\":1,\"group_layout_id\":1790938489347,\"id_in_group\":4,\"total_item_in_group\":7,\"contentId\":\"1000011045\",\"convertible\":\"jxl\",\"is_original\":0}","type":""},"extra":{"actionId":"14223766248766","msgId":"8330129056303","cliMsgId":"1790938489882","msgType":"chat.photo","uidFrom":"1661699209866784350","idTo":"6853631462700709197","dName":"Lâm Tùng","ts":"1790938490533","status":1,"notify":"1","ttl":0,"userId":"0","uin":"0","topOut":"0","topOutTimeOut":"0","topOutImprTimeOut":"0","propertyExt":{"color":-2147483648,"size":-1,"type":1,"subType":0,"ext":"{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"},"paramsExt":{"countUnread":1,"containType":0,"platformType":0},"reference":{"type":3,"data":"{\"logSrcType\":2,\"fwLvl\":5,\"cl\":0,\"id\":\"dc9580d9bec5b571a202705a1775357f\",\"rootMsgRef\":{\"logSrcType\":2,\"id\":\"a47ee01713b502401b63a58b1e9db791\",\"ts\":1790761862353},\"ts\":1790839958761}"},"previewThumb":"AwAeABf/2gAMAwEAAhEDEQA/ANaKQHryMH+VIBvPakUQPJhyGfnOAuMGgRbaCGLazyKhbgZNMQWska2dsbhdzyrk5wM8UPQFqZerTLcReUkyowkY4jUqQoJHJPB7dO+aBkEdvHGhIXc4z8zc5/CnZBdkySveCK2mZspnaygfqPapnqOOhFNpDrIGJTaFx8oILEnOTU3AmmcoQFAGeB7VoSXdDtU2G5Zgzt79KzbKLdyvOKSA/9k=","extraData":"{\"groupMediaMsg\":{\"groupLayoutId\":1790938489347}}","cmd":521,"st":3,"at":0,"realMsgId":"0"}}
+-----
+{"msgType":"chat.photo","content":{"title":"","description":"","href":"https://photo-stal-35.zdn.vn/gr/jpg/276701bedf5801065849/1WUpukp82aUJRSVjjvqTbh0V9ILtZhbQSD7w9PPEqwBuNyYcH8zq3gCCy8Ancp6mpWj.jpg","thumb":"https://photo-stal-35.zdn.vn/gr/jpg/276701bedf5801065849/1WUpukp82aUJRSVjjvqTbh0V9ILtZhbQSD7w9PPEqwBuNyYcH8zq3gCCy8Ancp6mpWj.jpg","childnumber":0,"action":"","params":"{\"width\":960,\"height\":1280,\"is_group_layout\":1,\"group_layout_id\":1790938489347,\"id_in_group\":5,\"total_item_in_group\":7,\"contentId\":\"1000011044\",\"convertible\":\"jxl\",\"is_original\":0}","type":""},"extra":{"actionId":"14223766248797","msgId":"8330129059966","cliMsgId":"1790938489904","msgType":"chat.photo","uidFrom":"1661699209866784350","idTo":"6853631462700709197","dName":"Lâm Tùng","ts":"1790938490580","status":1,"notify":"1","ttl":0,"userId":"0","uin":"0","topOut":"0","topOutTimeOut":"0","topOutImprTimeOut":"0","propertyExt":{"color":-2147483648,"size":-1,"type":1,"subType":0,"ext":"{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"},"paramsExt":{"countUnread":1,"containType":0,"platformType":0},"reference":{"type":3,"data":"{\"logSrcType\":2,\"fwLvl\":5,\"cl\":0,\"id\":\"f8df0e9ff4c40acf21f72bd3a7bf42f2\",\"rootMsgRef\":{\"logSrcType\":2,\"id\":\"859d469e48d934371979114706c6dae4\",\"ts\":1790761862469},\"ts\":1790839958866}"},"previewThumb":"AwAeABf/2gAMAwEAAhEDEQA/ANMLxSAcEzQBII9vXrQMrRzytI4FsvlpMIS3mc8kDOMe/rRYVya/mWyiV8+YScfKMDrjr09O9JjQ61ZnlgZ2ykq7sY55GaFqDI2kUfbsYUR3Mch+gCE/yNaW0M76lG8tFmu3ku50RTlVOctjdkD6Vlrsa3Rf0+Oe3ukSXDW0cIWKQEAZGBg+/X8KaEzGiiRYopGAkDsBs7DA649ferQgvQUug6Ngt/d7Y/z/ADoA0NKnkRXRWHTPzcj0pNAA/9k=","extraData":"{\"groupMediaMsg\":{\"groupLayoutId\":1790938489347}}","cmd":521,"st":3,"at":0,"realMsgId":"0"}}
+-----
+{"msgType":"chat.photo","content":{"title":"","description":"","href":"https://photo-stal-23.zdn.vn/gr/jpg/2c24f5fd2b1bf545ac0a/1WUpukp82aUI0bQoOeE8yDVNTHl6OpFpq7ME9PdVHQh8CNMlYzTqYd6tainU2A3UTY0.jpg","thumb":"https://photo-stal-23.zdn.vn/gr/jpg/2c24f5fd2b1bf545ac0a/1WUpukp82aUI0bQoOeE8yDVNTHl6OpFpq7ME9PdVHQh8CNMlYzTqYd6tainU2A3UTY0.jpg","childnumber":0,"action":"","params":"{\"width\":960,\"height\":1280,\"is_group_layout\":1,\"group_layout_id\":1790938489347,\"id_in_group\":6,\"total_item_in_group\":7,\"contentId\":\"1000011043\",\"convertible\":\"jxl\",\"is_original\":0}","type":""},"extra":{"actionId":"14223766228520","msgId":"8330129061784","cliMsgId":"1790938489928","msgType":"chat.photo","uidFrom":"1661699209866784350","idTo":"6853631462700709197","dName":"Lâm Tùng","ts":"1790938490625","status":1,"notify":"1","ttl":0,"userId":"0","uin":"0","topOut":"0","topOutTimeOut":"0","topOutImprTimeOut":"0","propertyExt":{"color":-2147483648,"size":-1,"type":1,"subType":0,"ext":"{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"},"paramsExt":{"countUnread":1,"containType":0,"platformType":0},"reference":{"type":3,"data":"{\"logSrcType\":2,\"fwLvl\":5,\"cl\":0,\"id\":\"8fad528bb935eea0cf41a76daf388986\",\"rootMsgRef\":{\"logSrcType\":2,\"id\":\"f96f66824fc41883ecb51ca8cf17aeb7\",\"ts\":1790761862626},\"ts\":1790839958978}"},"previewThumb":"AwAeABf/2gAMAwEAAhEDEQA/ALNiWDsr9SM89R/nmsymXVG3ccDpjmqQhEjxigCjq0bQ2ryLcFiMDIPI5Hf86JaAiSwuN2ll5Nr+Xk/M/wAzEDd6U0tAe5dXzJCdoAwfrSEczeXJaAq7bQ/BJ+uf6VNy7GrpkLR6WZVQSqx4Rhg4wQapPQl7lT7XI00jW1rcAnqwkK5NF0Ay4hV2t1yBmUA5OKko34nKQhF4HSi5IMi5Jx1qRgD/2Q==","extraData":"{\"groupMediaMsg\":{\"groupLayoutId\":1790938489347}}","cmd":521,"st":3,"at":0,"realMsgId":"0"}}
+-----
+{
+  "time": "2026-10-02T11:25:55.454Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-28.zdn.vn/gr/jpg/5f8d0998bf4e6110385f/2aOboR2ce9Pr0gQRSoxc2a4YMbv3CaSZhlVSK5xY.jpg",
+    "thumb": "https://photo-stal-28.zdn.vn/gr/jpg/5f8d0998bf4e6110385f/2aOboR2ce9Pr0gQRSoxc2a4YMbv3CaSZhlVSK5xY.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":2048,\"height\":1535,\"hd\":\"https:\\/\\/photo-stal-28.zdn.vn\\/gr\\/jpg\\/5f8d0998bf4e6110385f\\/2aOboR2ce9Pr0gQRSoxc2a4YMbv3CaSZhlVSK5xY.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790940354392,\"id_in_group\":0,\"total_item_in_group\":6,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14224003131010",
+    "msgId": "8330239482688",
+    "cliMsgId": "1790940354819",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790940355325",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":3,\"cl\":0,\"id\":\"8371395fdea5992396359d624d8e70c1\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"92b62b199a134ae013f267dafe680ceb\",\"ts\":1790906010038},\"ts\":1790925436502}"
+    },
+    "previewThumb": "AgAXAB//2gAMAwEAAhEDEQA/AOqFxEUWIGRIy6ZSQCReGHRs5GO1bU5sypvY3UOmMsvPGeAR3FcRLKAVaJNhz0Gcnv0PP6V0stoqaXK9sjebKqZABycdufqa5oVW7pnVOklZl24eVyJJgPm6Feh+lY0d3HM6LHnDnAJHHQn+ldIhX7Iiy8EIOD2OK8xvjJqGjLauRGdw42+mea1dtzns72R//9DtU+zWDIzBIuu0Kv59K2Vm3IG7HkGud1f70P0b+VbcP/HtH/uj+VccGdElpcmeRQOawrh9PuU+chgfUH/Cteb7tcgv+qH4VZC3P//Z",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790940354392}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T11:25:55.485Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-18.zdn.vn/gr/jpg/0881388d8e5b5005094a/2aOboR2ce9VLZiFVvtKMDlnUtEtUVl6qTkx1G4yu.jpg",
+    "thumb": "https://photo-stal-18.zdn.vn/gr/jpg/0881388d8e5b5005094a/2aOboR2ce9VLZiFVvtKMDlnUtEtUVl6qTkx1G4yu.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":2048,\"height\":1536,\"hd\":\"https:\\/\\/photo-stal-18.zdn.vn\\/gr\\/jpg\\/0881388d8e5b5005094a\\/2aOboR2ce9VLZiFVvtKMDlnUtEtUVl6qTkx1G4yu.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790940354392,\"id_in_group\":1,\"total_item_in_group\":6,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14224003120495",
+    "msgId": "8330239484254",
+    "cliMsgId": "1790940354843",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790940355359",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":3,\"cl\":0,\"id\":\"9534710b9549f2da558fa38e2f9c7c10\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"e0837c9efc1923b916978def5830b549\",\"ts\":1790906010143},\"ts\":1790925436824}"
+    },
+    "previewThumb": "AgAXAB//2gAMAwEAAhEDEQA/AOvF1HbBzKdqqASTwBuJA/lUskMZfzkJjkI+8vBP17H8a5XWUvLnTnFvL5Ts8fzc/d3ScVJpw1Kezltrq481vl2NjJUDr2zzXPGcEkmzacJ+9JI61pCjI0pBPGWTpjvkf/rqxfXcEEKxSk/veECgtnHPYHtRZmIQKrDadoBBGPaqcUUSXkcM/Pk7ngJ9GGCPqP5VspGbR//Q7SCyt3gHmKG578jgkjj8a0oxHEuFAHpgVBb/AOoH1P8AOpTXLFaI1k3dlgMrDBFQT2Mc4G1mjYchl6inp1q0OtUTc//Z",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790940354392}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T11:25:55.527Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-19.zdn.vn/gr/jpg/6befbb390defd3b18afe/2aOboR2ceADZ7hQkCuNeZdivbiCZxzd6Nyt1Qr9U.jpg",
+    "thumb": "https://photo-stal-19.zdn.vn/gr/jpg/6befbb390defd3b18afe/2aOboR2ceADZ7hQkCuNeZdivbiCZxzd6Nyt1Qr9U.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":2048,\"height\":1536,\"hd\":\"https:\\/\\/photo-stal-19.zdn.vn\\/gr\\/jpg\\/6befbb390defd3b18afe\\/2aOboR2ceADZ7hQkCuNeZdivbiCZxzd6Nyt1Qr9U.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790940354392,\"id_in_group\":2,\"total_item_in_group\":6,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14224003128784",
+    "msgId": "8330239488797",
+    "cliMsgId": "1790940354868",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790940355417",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":3,\"cl\":0,\"id\":\"69adc5edf93c68b683eb0b1cca2f5a24\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"5442405c244d03c09e3a6dfc36c7cfb9\",\"ts\":1790906010245},\"ts\":1790925436913}"
+    },
+    "previewThumb": "AgAXAB//2gAMAwEAAhEDEQA/APSQ+W69qwZJJGlbbhW6Fm5bA7ADsK1AEWQueCQAT7DOP51zviC1urraNPLI2Ml0AJB3A9/pTnKyCKuy5M9lG4cuWZe8hBIPfA7fhVWG2llctEkjqSWUrhRz3BNVpLa9msooZpWDjcWLJyc+taNilk1uEndyY/k4Z1Hy4xwDgVk+WS31KTnGTTWh/9DuRtkPmY9hmpd2Khg/1Qp571i2WTlgVAxyKzrRj9vuokOGBR/wZcfzFXe1Z9n/AMhi7/65xf1qJtpXRUFd2Z//2Q==",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790940354392}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T11:25:55.636Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-29.zdn.vn/gr/jpg/efb57e76c8a016fe4fb1/2aOboR2ceAKwSAS0pwhZH0cCbMl7QmX8vX8ShBZo.jpg",
+    "thumb": "https://photo-stal-29.zdn.vn/gr/jpg/efb57e76c8a016fe4fb1/2aOboR2ceAKwSAS0pwhZH0cCbMl7QmX8vX8ShBZo.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":2048,\"height\":1536,\"hd\":\"https:\\/\\/photo-stal-29.zdn.vn\\/gr\\/jpg\\/efb57e76c8a016fe4fb1\\/2aOboR2ceAKwSAS0pwhZH0cCbMl7QmX8vX8ShBZo.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790940354392,\"id_in_group\":3,\"total_item_in_group\":6,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14224003148521",
+    "msgId": "8330239491013",
+    "cliMsgId": "1790940354891",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790940355474",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":3,\"cl\":0,\"id\":\"498ee3387a3eedf217570a52982e7af4\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"15a017c95522db3a5ed87b7dfa84e45b\",\"ts\":1790906010402},\"ts\":1790925436630}"
+    },
+    "previewThumb": "AgAXAB//2gAMAwEAAhEDEQA/ANfTiw1KS4vAIh5GWVj90A9TkDHFTadfRyySLcTxMCxEYUjJGT6E54qm6z3V3qMDBd7WRUAHjJzjkgVyNj4X1KCyORGJiyOp9AvYmtJTinqyIwcloj1FYpLkn7EVbZw+TjBrn5tXSCIzyAbR3GTVzRW1C2t5orklWMjSYUggA44z1rBu9H1Ka1KqEBOMZcDvVwnTabbMa8asXBQXXU//0Nq0BOsXijq1soH61oRWt0IwpjPTHUf41Ssv+Q9c/wDXBP5mupj6VlXpqctTShUcFoZsNpO7OGXZle+DnmgxumC+DGoxjA69PrWwn3j9Kzp/9Q31/rUeyikkOVWTdz//2Q==",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790940354392}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T11:25:55.663Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-14.zdn.vn/gr/jpg/3bb2ab0e1dd8c3869ac9/2aOboR2ceAVSOMnbjawlVLC7AuhOvoIiuNqLE7aC.jpg",
+    "thumb": "https://photo-stal-14.zdn.vn/gr/jpg/3bb2ab0e1dd8c3869ac9/2aOboR2ceAVSOMnbjawlVLC7AuhOvoIiuNqLE7aC.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":2048,\"height\":1536,\"hd\":\"https:\\/\\/photo-stal-14.zdn.vn\\/gr\\/jpg\\/3bb2ab0e1dd8c3869ac9\\/2aOboR2ceAVSOMnbjawlVLC7AuhOvoIiuNqLE7aC.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790940354392,\"id_in_group\":4,\"total_item_in_group\":6,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14224003169822",
+    "msgId": "8330239493807",
+    "cliMsgId": "1790940354915",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790940355524",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":3,\"cl\":0,\"id\":\"3e06cdc6435c43f7ad0f6dc260ba18e7\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"c59f037de6b00a4f9cfd717db4e09442\",\"ts\":1790906010443},\"ts\":1790925436711}"
+    },
+    "previewThumb": "AgAXAB//2gAMAwEAAhEDEQA/ANq0kljuZdPf5xCTtIHbOK1ljQn94So6cg1z+myXUFzJeXZVjKcYC7cZbPTLV2b+XNC0YycjsKycot6MtRml7xBFYRqwkuSDjBVe2ff1NYl3cSPMfNYttYgDsOoq3NBfTXkMjoyplNxBHGOtc3cSYnkGcgO3P4muetU0sjrowV7n/9DctQjSqrcjkmukinX7q8VzVn/rx9DW3D978a4aWx219zTYsDg9etZ89paXBzLGpPrjB/MVoy/6z/gIqr3rWaMIM//Z",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790940354392}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----
+{
+  "time": "2026-10-02T11:25:55.729Z",
+  "msgType": "chat.photo",
+  "content": {
+    "title": "",
+    "description": "",
+    "href": "https://photo-stal-18.zdn.vn/gr/jpg/55b147c5f2132c4d7502/2aOboR2ceBP8GGvWzFDqLd5uVMLW3uuevmTAmCqu.jpg",
+    "thumb": "https://photo-stal-18.zdn.vn/gr/jpg/55b147c5f2132c4d7502/2aOboR2ceBP8GGvWzFDqLd5uVMLW3uuevmTAmCqu.jpg",
+    "childnumber": 0,
+    "action": "",
+    "params": "{\"width\":960,\"height\":720,\"hd\":\"https:\\/\\/photo-stal-18.zdn.vn\\/gr\\/jpg\\/55b147c5f2132c4d7502\\/2aOboR2ceBP8GGvWzFDqLd5uVMLW3uuevmTAmCqu.jpg\",\"is_group_layout\":1,\"group_layout_id\":1790940354392,\"id_in_group\":5,\"total_item_in_group\":6,\"contentId\":\"\",\"convertible\":\"jxl\",\"is_original\":0}",
+    "type": ""
+  },
+  "extra": {
+    "actionId": "14224003169861",
+    "msgId": "8330239497197",
+    "cliMsgId": "1790940354937",
+    "msgType": "chat.photo",
+    "uidFrom": "1661699209866784350",
+    "idTo": "6853631462700709197",
+    "dName": "Lâm Tùng",
+    "ts": "1790940355582",
+    "status": 1,
+    "notify": "1",
+    "ttl": 0,
+    "userId": "0",
+    "uin": "0",
+    "topOut": "0",
+    "topOutTimeOut": "0",
+    "topOutImprTimeOut": "0",
+    "propertyExt": {
+      "color": -2147483648,
+      "size": -1,
+      "type": 1,
+      "subType": 0,
+      "ext": "{\"sSrcType\":-1,\"sSrcStr\":\"\",\"msg_warning_type\":0}"
+    },
+    "paramsExt": {
+      "countUnread": 1,
+      "containType": 0,
+      "platformType": 0
+    },
+    "reference": {
+      "type": 3,
+      "data": "{\"logSrcType\":2,\"fwLvl\":3,\"cl\":0,\"id\":\"90b9673b92a74559c0d6fe1a6ad7ce7e\",\"rootMsgRef\":{\"logSrcType\":3,\"id\":\"c82bac4edd3ff990850d901e7bbdd08c\",\"ts\":1790906010556},\"ts\":1790925437010}"
+    },
+    "previewThumb": "AgAXAB//2gAMAwEAAhEDEQA/AOh+ISE6dGF6nI/NWrc0GURadFH5nHlJIoPXa4zj8Dn8KzfH8ZbSUbpg/wDsrVTs7029hasyjYbKIF2OACQQB06k0pMaNzU5Y7mSzSNg3+lxE49iafdYLH6n+dYunuJL2CJIditdb2cY2swBznAHJ+la1xnJ+tVDUUtD/9DvPGcJn0kIP88VyVrqL2lvaQ+Wsim0j4OPvKWwec123ir/AJBo/GvOW+5Z/wDXsv8ANqmQzZ8Nfavt0UFxIWAlMw+pUg10dy7xsGjOD2NYXh//AJCsX0/pW5d9RWkNiWf/2Q==",
+    "extraData": "{\"groupMediaMsg\":{\"groupLayoutId\":1790940354392}}",
+    "cmd": 521,
+    "st": 3,
+    "at": 0,
+    "realMsgId": "0"
+  }
+}
+-----

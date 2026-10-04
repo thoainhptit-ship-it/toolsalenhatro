@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chuyển tiếp tin nhắn Zalo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f3f5f9;--card:#fff;--ink:#14213d;--mute:#6b7690;--line:#e1e6ef;--accent:#0068ff;--soft:#e8f1ff;--danger:#d93a3a}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 "Be Vietnam Pro",system-ui,sans-serif}
+main{max-width:760px;margin:0 auto;padding:32px 16px 80px}
+header{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:20px}
+h1{font-size:20px;margin:0;font-weight:600}
+#status{font-size:13px;color:var(--mute)}
+.rule{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;margin-bottom:12px;display:grid;grid-template-columns:1fr 1fr auto;gap:16px;align-items:start}
+.rule label{display:block;font-size:13px;color:var(--mute);margin-bottom:6px}
+.pick{display:flex;align-items:center;gap:8px;width:100%;min-height:40px;padding:6px 10px;border:1px dashed #b9c3d6;border-radius:8px;background:none;color:var(--mute);font:inherit;cursor:pointer;text-align:left}
+.pick:hover{border-color:var(--accent);color:var(--accent)}
+.pick.has{border:1px solid var(--line);color:var(--ink);background:#fafbfd}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{display:flex;align-items:center;gap:6px;padding:3px 6px 3px 3px;background:var(--soft);border-radius:99px;font-size:13px}
+.chip button{border:0;background:none;color:var(--mute);cursor:pointer;font-size:16px;line-height:1;padding:0 2px}
+.chip button:hover,.del:hover{color:var(--danger)}
+.add{border:1px dashed #b9c3d6;background:none;border-radius:99px;padding:5px 12px;font:inherit;font-size:13px;color:var(--mute);cursor:pointer}
+.add:hover{border-color:var(--accent);color:var(--accent)}
+.del{border:0;background:none;color:var(--mute);font-size:20px;cursor:pointer;line-height:1;padding:24px 4px 0}
+.new{width:100%;padding:12px;border:1px dashed #b9c3d6;border-radius:12px;background:none;font:inherit;color:var(--mute);cursor:pointer}
+.new:hover{border-color:var(--accent);color:var(--accent)}
+.av{flex:none;width:28px;height:28px;border-radius:50%;background:var(--accent);color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:12px;font-weight:600;overflow:hidden}
+.av.sm{width:22px;height:22px;font-size:10px}
+.av img{width:100%;height:100%;object-fit:cover}
+#pop{position:fixed;z-index:10;width:320px;max-width:calc(100vw - 16px);background:var(--card);border:1px solid var(--line);border-radius:12px;box-shadow:0 12px 32px rgba(20,33,61,.18);overflow:hidden}
+#pop[hidden]{display:none}
+#q{width:100%;border:0;border-bottom:1px solid var(--line);padding:12px 14px;font:inherit;outline:none}
+#list{max-height:300px;overflow-y:auto;padding:4px}
+.item{display:flex;align-items:center;gap:10px;width:100%;padding:8px 10px;border:0;border-radius:8px;background:none;font:inherit;text-align:left;cursor:pointer}
+.item:hover,.item:focus-visible{background:var(--soft);outline:none}
+.item span:last-child{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.empty{padding:16px;text-align:center;color:var(--mute);font-size:14px}
+.clean{margin-top:28px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px}
+.clean label{font-weight:600;display:block}
+.clean p{margin:4px 0 10px;font-size:13px;color:var(--mute)}
+.clean textarea{width:100%;border:1px solid var(--line);border-radius:8px;padding:10px;font:inherit;resize:vertical}
+.clean textarea:focus{outline:2px solid var(--soft);border-color:var(--accent)}
+@media(max-width:620px){.rule{grid-template-columns:1fr}.del{padding:0;justify-self:end}}
+@media(prefers-reduced-motion:no-preference){.pick,.add,.item{transition:background .12s,border-color .12s,color .12s}}
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Chuyển tiếp tin nhắn Zalo</h1>
+    <span id="status"></span>
+  </header>
+  <div id="rules"></div>
+  <button class="new" id="newRule">+ Thêm cấu hình</button>
+  <section class="clean">
+    <label for="kw">Xóa dòng thừa trước khi gửi</label>
+    <p>Mỗi dòng nhập một từ khóa. Dòng nào trong tin có chứa từ khóa sẽ bị xóa (áp dụng cho mọi nhóm).</p>
+    <textarea id="kw" rows="4" placeholder="Ví dụ: 90land.vn"></textarea>
+  </section>
+</main>
+
+<div id="pop" hidden>
+  <input id="q" placeholder="Tìm tên nhóm..." autocomplete="off">
+  <div id="list"></div>
+</div>
+
+<script>
+const $ = (s) => document.querySelector(s);
+const h = (tag, attrs = {}, ...kids) => {
+  const el = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) {
+    if (k.startsWith("on")) el.addEventListener(k.slice(2), v);
+    else if (k === "class") el.className = v;
+    else el.setAttribute(k, v);
+  }
+  el.append(...kids);
+  return el;
+};
+const norm = (s) => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/đ/g, "d").toLowerCase();
+
+let groups = [], rules = [], removeKeywords = [];
+const byId = (id) => groups.find((g) => g.id === id);
+
+// Avatar: hiện chữ cái đầu, ảnh tải xong thì thay vào
+function avatar(g, small) {
+  const box = h("span", { class: "av" + (small ? " sm" : "") }, (g?.name || "?").trim().charAt(0).toUpperCase());
+  if (g?.avt) {
+    const img = h("img", { src: g.avt, alt: "", referrerpolicy: "no-referrer" });
+    img.onload = () => { box.textContent = ""; box.append(img); };
+  }
+  return box;
+}
+
+// ---------- Lưu tự động ----------
+let saveTimer;
+function save() {
+  $("#status").textContent = "Đang lưu...";
+  clearTimeout(saveTimer);
+  saveTimer = setTimeout(async () => {
+    try {
+      await fetch("/api/config", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ rules, removeKeywords }) });
+      $("#status").textContent = "Đã lưu";
+    } catch {
+      $("#status").textContent = "Lưu lỗi, thử lại";
+    }
+  }, 400);
+}
+const change = () => { render(); save(); };
+
+// ---------- Hộp tìm kiếm nhóm ----------
+const pop = $("#pop"), q = $("#q"), list = $("#list");
+let picker = null;
+
+function openPicker(anchor, opts) {
+  picker = opts;
+  q.value = "";
+  renderList();
+  pop.hidden = false;
+  const r = anchor.getBoundingClientRect();
+  pop.style.left = Math.max(8, Math.min(r.left, innerWidth - pop.offsetWidth - 8)) + "px";
+  pop.style.top = (r.bottom + 6 + pop.offsetHeight > innerHeight ? Math.max(8, r.top - pop.offsetHeight - 6) : r.bottom + 6) + "px";
+  q.focus();
+}
+const closePicker = () => { pop.hidden = true; picker = null; };
+
+function renderList() {
+  if (!picker) return;
+  const key = norm(q.value.trim());
+  const taken = picker.exclude();
+  const found = groups.filter((g) => !taken.has(g.id) && norm(g.name).includes(key));
+  list.replaceChildren(...(found.length
+    ? found.map((g) => h("button", { class: "item", onclick: () => { picker.onPick(g.id); picker?.multi ? renderList() : closePicker(); } }, avatar(g), h("span", {}, g.name)))
+    : [h("div", { class: "empty" }, groups.length ? "Không tìm thấy nhóm" : "Chưa có nhóm nào")]));
+}
+q.addEventListener("input", renderList);
+q.addEventListener("keydown", (e) => {
+  if (e.key === "Enter") list.querySelector(".item")?.click();
+  if (e.key === "Escape") closePicker();
+});
+document.addEventListener("mousedown", (e) => { if (!pop.hidden && !pop.contains(e.target) && !e.target.closest("[data-pick]")) closePicker(); });
+addEventListener("resize", closePicker);
+
+// ---------- Giao diện cấu hình ----------
+function render() {
+  $("#rules").replaceChildren(...rules.map((rule) => {
+    const main = byId(rule.mainGroupId);
+    const usedAsMain = () => new Set(rules.map((r) => r.mainGroupId));
+
+    const mainBtn = h("button", {
+      class: "pick" + (main ? " has" : ""), "data-pick": "",
+      onclick: (e) => openPicker(e.currentTarget, {
+        exclude: () => new Set([...usedAsMain(), ...rule.subGroupIds]),
+        onPick: (id) => { rule.mainGroupId = id; change(); }
+      })
+    }, ...(main ? [avatar(main), main.name] : ["🔍 Tìm nhóm chính..."]));
+
+    const chips = rule.subGroupIds.map((id) => h("span", { class: "chip" },
+      avatar(byId(id), true), byId(id)?.name || id,
+      h("button", { title: "Bỏ", onclick: () => { rule.subGroupIds = rule.subGroupIds.filter((x) => x !== id); change(); } }, "×")));
+
+    const addBtn = h("button", {
+      class: "add", "data-pick": "",
+      onclick: (e) => openPicker(e.currentTarget, {
+        multi: true,
+        exclude: () => new Set([rule.mainGroupId, ...rule.subGroupIds]),
+        onPick: (id) => { rule.subGroupIds.push(id); change(); }
+      })
+    }, "🔍 Thêm nhóm phụ");
+
+    return h("div", { class: "rule" },
+      h("div", {}, h("label", {}, "Nhóm chính (nhận tin)"), mainBtn),
+      h("div", {}, h("label", {}, "Nhóm phụ (gửi tới)"), h("div", { class: "chips" }, ...chips, addBtn)),
+      h("button", { class: "del", title: "Xóa cấu hình", onclick: () => { rules = rules.filter((r) => r !== rule); closePicker(); change(); } }, "×"));
+  }));
+}
+
+$("#kw").addEventListener("input", (e) => {
+  removeKeywords = e.target.value.split("\n").map((k) => k.trim()).filter(Boolean);
+  save();
+});
+
+$("#newRule").onclick = () => { rules.push({ mainGroupId: "", subGroupIds: [] }); render(); };
+
+// ---------- Khởi động ----------
+(async () => {
+  const [g, cfg] = await Promise.all([fetch("/api/groups").then((r) => r.json()), fetch("/api/config").then((r) => r.json())]);
+  groups = g; rules = cfg.rules || []; removeKeywords = cfg.removeKeywords || [];
+  $("#kw").value = removeKeywords.join("\n");
+  if (!rules.length) rules.push({ mainGroupId: "", subGroupIds: [] });
+  render();
+})();
+</script>
+</body>
+</html>
