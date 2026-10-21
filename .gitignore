@@ -1,0 +1,9 @@
+node_modules/
+temp_media/
+config.json
+debug_media.log
+qr.png
+.env
+session.json
+sent.json
+history.json

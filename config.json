@@ -3,13 +3,19 @@
     {
       "mainGroupId": "7952770811775616268",
       "subGroupIds": [
-        "4475905681261008204"
+        "5916727357356996685"
       ]
     },
     {
-      "mainGroupId": "1449324423011843916",
+      "mainGroupId": "8556538915643883247",
       "subGroupIds": [
-        "4475905681261008204"
+        "1087106038451744583"
+      ]
+    },
+    {
+      "mainGroupId": "1112415428157458721",
+      "subGroupIds": [
+        "1768008850664400856"
       ]
     }
   ],
@@ -17,5 +23,13 @@
     "🌹",
     "🚩",
     "90land.vn"
-  ]
+  ],
+  "blockKeywords": [
+    "NGUỒN CHỐT NHANH",
+    "TOP NGUỒN NHÀ MỚI",
+    "NGUỒN NHÀ ƯU TIÊN"
+  ],
+  "blockManyCodes": true,
+  "blockSoldOut": true,
+  "rev": 6
 }

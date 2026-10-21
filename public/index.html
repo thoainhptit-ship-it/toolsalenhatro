@@ -7,15 +7,31 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#f3f5f9;--card:#fff;--ink:#14213d;--mute:#6b7690;--line:#e1e6ef;--accent:#0068ff;--soft:#e8f1ff;--danger:#d93a3a}
+:root{--bg:#f3f5f9;--card:#fff;--ink:#14213d;--mute:#6b7690;--line:#e1e6ef;--accent:#0068ff;--soft:#e8f1ff;--danger:#d93a3a;--ok:#1a9d5c;--warn:#c98a00}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 "Be Vietnam Pro",system-ui,sans-serif}
-main{max-width:760px;margin:0 auto;padding:32px 16px 80px}
+main{max-width:800px;margin:0 auto;padding:32px 16px 80px}
 header{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:20px}
 h1{font-size:20px;margin:0;font-weight:600}
 #status{font-size:13px;color:var(--mute)}
-.rule{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;margin-bottom:12px;display:grid;grid-template-columns:1fr 1fr auto;gap:16px;align-items:start}
-.rule label{display:block;font-size:13px;color:var(--mute);margin-bottom:6px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;margin-bottom:12px}
+/* trạng thái trực tiếp */
+.live-head{display:flex;flex-wrap:wrap;align-items:center;gap:8px 18px}
+.dot{width:10px;height:10px;border-radius:50%;background:var(--warn);flex:none}
+.dot.ok{background:var(--ok)}.dot.bad{background:var(--danger)}
+.counts{display:flex;flex-wrap:wrap;gap:4px 16px;margin-left:auto;font-size:13px;color:var(--mute)}
+.counts b{color:var(--ink);font-weight:600;font-variant-numeric:tabular-nums}
+#feed{list-style:none;margin:12px 0 0;padding:0;max-height:300px;overflow-y:auto;border-top:1px solid var(--line)}
+#feed li{display:grid;grid-template-columns:62px 1fr auto;gap:10px;padding:7px 0;border-bottom:1px solid var(--line);font-size:13px;align-items:baseline}
+#feed .t{color:var(--mute);font-variant-numeric:tabular-nums}
+#feed .m{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+#feed .g{color:var(--mute);font-size:12px}
+#feed .s{text-align:right;white-space:nowrap}
+.s.wait{color:var(--mute)}.s.run{color:var(--accent)}.s.ok{color:var(--ok)}.s.bad{color:var(--danger)}.s.skip{color:var(--warn)}
+.empty-feed{padding:14px 0 2px;color:var(--mute);font-size:13px;text-align:center}
+/* cấu hình nhóm */
+.rule{display:grid;grid-template-columns:1fr 1fr auto;gap:16px;align-items:start}
+.rule label,.opt label.t{display:block;font-size:13px;color:var(--mute);margin-bottom:6px}
 .pick{display:flex;align-items:center;gap:8px;width:100%;min-height:40px;padding:6px 10px;border:1px dashed #b9c3d6;border-radius:8px;background:none;color:var(--mute);font:inherit;cursor:pointer;text-align:left}
 .pick:hover{border-color:var(--accent);color:var(--accent)}
 .pick.has{border:1px solid var(--line);color:var(--ink);background:#fafbfd}
@@ -26,11 +42,20 @@ h1{font-size:20px;margin:0;font-weight:600}
 .add{border:1px dashed #b9c3d6;background:none;border-radius:99px;padding:5px 12px;font:inherit;font-size:13px;color:var(--mute);cursor:pointer}
 .add:hover{border-color:var(--accent);color:var(--accent)}
 .del{border:0;background:none;color:var(--mute);font-size:20px;cursor:pointer;line-height:1;padding:24px 4px 0}
+.warnline{grid-column:1/-1;font-size:13px;color:var(--warn)}
 .new{width:100%;padding:12px;border:1px dashed #b9c3d6;border-radius:12px;background:none;font:inherit;color:var(--mute);cursor:pointer}
 .new:hover{border-color:var(--accent);color:var(--accent)}
 .av{flex:none;width:28px;height:28px;border-radius:50%;background:var(--accent);color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:12px;font-weight:600;overflow:hidden}
 .av.sm{width:22px;height:22px;font-size:10px}
 .av img{width:100%;height:100%;object-fit:cover}
+/* bộ lọc */
+.opts{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:28px}
+.opt p{margin:0 0 8px;font-size:13px;color:var(--mute)}
+.opt b{display:block;font-weight:600}
+.opt textarea{width:100%;border:1px solid var(--line);border-radius:8px;padding:10px;font:inherit;resize:vertical}
+.opt textarea:focus{outline:2px solid var(--soft);border-color:var(--accent)}
+.opt .chk{display:flex;gap:8px;align-items:flex-start;margin-top:10px;font-size:13px;cursor:pointer}
+/* hộp tìm nhóm */
 #pop{position:fixed;z-index:10;width:320px;max-width:calc(100vw - 16px);background:var(--card);border:1px solid var(--line);border-radius:12px;box-shadow:0 12px 32px rgba(20,33,61,.18);overflow:hidden}
 #pop[hidden]{display:none}
 #q{width:100%;border:0;border-bottom:1px solid var(--line);padding:12px 14px;font:inherit;outline:none}
@@ -39,12 +64,7 @@ h1{font-size:20px;margin:0;font-weight:600}
 .item:hover,.item:focus-visible{background:var(--soft);outline:none}
 .item span:last-child{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .empty{padding:16px;text-align:center;color:var(--mute);font-size:14px}
-.clean{margin-top:28px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px}
-.clean label{font-weight:600;display:block}
-.clean p{margin:4px 0 10px;font-size:13px;color:var(--mute)}
-.clean textarea{width:100%;border:1px solid var(--line);border-radius:8px;padding:10px;font:inherit;resize:vertical}
-.clean textarea:focus{outline:2px solid var(--soft);border-color:var(--accent)}
-@media(max-width:620px){.rule{grid-template-columns:1fr}.del{padding:0;justify-self:end}}
+@media(max-width:640px){.rule,.opts{grid-template-columns:1fr}.del{padding:0;justify-self:end}.counts{margin-left:0}#feed li{grid-template-columns:56px 1fr}#feed .s{grid-column:2;text-align:left}}
 @media(prefers-reduced-motion:no-preference){.pick,.add,.item{transition:background .12s,border-color .12s,color .12s}}
 </style>
 </head>
@@ -54,12 +74,37 @@ h1{font-size:20px;margin:0;font-weight:600}
     <h1>Chuyển tiếp tin nhắn Zalo</h1>
     <span id="status"></span>
   </header>
+
+  <section class="card">
+    <div class="live-head">
+      <span id="conn" class="dot"></span><b id="connText">Đang kết nối...</b>
+      <div class="counts">
+        <span>Đã nhận <b id="cRecv">0</b></span>
+        <span>Đang chuyển <b id="cPend">0</b></span>
+        <span>Đã chuyển <b id="cDone">0</b></span>
+        <span>Lỗi <b id="cFail">0</b></span>
+        <span>Bỏ qua <b id="cSkip">0</b></span>
+      </div>
+    </div>
+    <ul id="feed"></ul>
+  </section>
+
   <div id="rules"></div>
   <button class="new" id="newRule">+ Thêm cấu hình</button>
-  <section class="clean">
-    <label for="kw">Xóa dòng thừa trước khi gửi</label>
-    <p>Mỗi dòng nhập một từ khóa. Dòng nào trong tin có chứa từ khóa sẽ bị xóa (áp dụng cho mọi nhóm).</p>
-    <textarea id="kw" rows="4" placeholder="Ví dụ: 90land.vn"></textarea>
+
+  <section class="opts">
+    <div class="card opt">
+      <b>Xóa dòng thừa</b>
+      <p>Mỗi dòng một từ khóa. Dòng nào có từ khóa sẽ bị xóa, phần còn lại vẫn gửi.</p>
+      <textarea id="kw" rows="5" placeholder="Ví dụ: 90land.vn"></textarea>
+    </div>
+    <div class="card opt">
+      <b>Không chuyển tiếp tin có chứa</b>
+      <p>Tin có từ khóa sẽ bị bỏ cả tin (không phân biệt hoa thường, có dấu hay không).</p>
+      <textarea id="block" rows="5" placeholder="Ví dụ: NGUỒN CHỐT NHANH"></textarea>
+      <label class="chk"><input type="checkbox" id="many"> <span>Chặn tin tổng hợp liệt kê từ 5 mã tòa (MT...) trở lên</span></label>
+      <label class="chk"><input type="checkbox" id="sold"> <span>Chặn tin báo hết phòng kiểu "@All hết MT534..." (tin ngắn)</span></label>
+    </div>
   </section>
 </main>
 
@@ -82,10 +127,9 @@ const h = (tag, attrs = {}, ...kids) => {
 };
 const norm = (s) => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/đ/g, "d").toLowerCase();
 
-let groups = [], rules = [], removeKeywords = [];
+let groups = [], rules = [], removeKeywords = [], blockKeywords = [], blockManyCodes = true, blockSoldOut = true;
 const byId = (id) => groups.find((g) => g.id === id);
 
-// Avatar: hiện chữ cái đầu, ảnh tải xong thì thay vào
 function avatar(g, small) {
   const box = h("span", { class: "av" + (small ? " sm" : "") }, (g?.name || "?").trim().charAt(0).toUpperCase());
   if (g?.avt) {
@@ -96,18 +140,24 @@ function avatar(g, small) {
 }
 
 // ---------- Lưu tự động ----------
-let saveTimer;
+let saveTimer, cfgRev = 0, saveChain = Promise.resolve();
+async function doSave() {
+  try {
+    const r = await fetch("/api/config", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ rules, removeKeywords, blockKeywords, blockManyCodes, blockSoldOut, rev: cfgRev }) });
+    if (r.status === 409) {
+      alert("Cấu hình vừa được thay đổi ở tab hoặc thiết bị khác. Trang sẽ tải lại để không ghi đè nhầm.");
+      return location.reload();
+    }
+    cfgRev = (await r.json()).rev;
+    $("#status").textContent = "Đã lưu";
+  } catch {
+    $("#status").textContent = "Lưu lỗi, thử lại";
+  }
+}
 function save() {
   $("#status").textContent = "Đang lưu...";
   clearTimeout(saveTimer);
-  saveTimer = setTimeout(async () => {
-    try {
-      await fetch("/api/config", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ rules, removeKeywords }) });
-      $("#status").textContent = "Đã lưu";
-    } catch {
-      $("#status").textContent = "Lưu lỗi, thử lại";
-    }
-  }, 400);
+  saveTimer = setTimeout(() => { saveChain = saveChain.then(doSave); }, 400);
 }
 const change = () => { render(); save(); };
 
@@ -138,13 +188,13 @@ function renderList() {
 }
 q.addEventListener("input", renderList);
 q.addEventListener("keydown", (e) => {
-  if (e.key === "Enter") list.querySelector(".item")?.click();
+  if (e.key === "Enter") { const items = list.querySelectorAll(".item"); if (items.length === 1) items[0].click(); } // chỉ tự chọn khi chỉ còn 1 kết quả, tránh chọn nhầm nhóm
   if (e.key === "Escape") closePicker();
 });
 document.addEventListener("mousedown", (e) => { if (!pop.hidden && !pop.contains(e.target) && !e.target.closest("[data-pick]")) closePicker(); });
 addEventListener("resize", closePicker);
 
-// ---------- Giao diện cấu hình ----------
+// ---------- Cấu hình nhóm ----------
 function render() {
   $("#rules").replaceChildren(...rules.map((rule) => {
     const main = byId(rule.mainGroupId);
@@ -171,27 +221,93 @@ function render() {
       })
     }, "🔍 Thêm nhóm phụ");
 
-    return h("div", { class: "rule" },
+    // cảnh báo nhóm vừa là chính vừa là phụ (tin người khác nhắn trong đó sẽ bị chuyển tiếp tiếp)
+    const warn = [];
+    if (rule.mainGroupId && rules.some((r) => r !== rule && r.subGroupIds.includes(rule.mainGroupId))) warn.push("Nhóm chính này cũng là nhóm phụ của cấu hình khác.");
+    const dual = rule.subGroupIds.filter((id) => rules.some((r) => r !== rule && r.mainGroupId === id)).map((id) => byId(id)?.name || id);
+    if (dual.length) warn.push(`Nhóm phụ ${dual.join(", ")} cũng là nhóm chính của cấu hình khác.`);
+
+    const kids = [
       h("div", {}, h("label", {}, "Nhóm chính (nhận tin)"), mainBtn),
       h("div", {}, h("label", {}, "Nhóm phụ (gửi tới)"), h("div", { class: "chips" }, ...chips, addBtn)),
-      h("button", { class: "del", title: "Xóa cấu hình", onclick: () => { rules = rules.filter((r) => r !== rule); closePicker(); change(); } }, "×"));
+      h("button", { class: "del", title: "Xóa cấu hình", onclick: () => { rules = rules.filter((r) => r !== rule); closePicker(); change(); } }, "×")
+    ];
+    if (warn.length) kids.push(h("div", { class: "warnline" }, "⚠️ " + warn.join(" ") + " Tin người khác nhắn trong nhóm đó sẽ bị chuyển tiếp tiếp."));
+    return h("div", { class: "card rule" }, ...kids);
   }));
 }
 
-$("#kw").addEventListener("input", (e) => {
-  removeKeywords = e.target.value.split("\n").map((k) => k.trim()).filter(Boolean);
-  save();
-});
-
 $("#newRule").onclick = () => { rules.push({ mainGroupId: "", subGroupIds: [] }); render(); };
+
+const lines = (v) => v.split("\n").map((k) => k.trim()).filter(Boolean);
+$("#kw").addEventListener("input", (e) => { removeKeywords = lines(e.target.value); save(); });
+$("#block").addEventListener("input", (e) => { blockKeywords = lines(e.target.value); save(); });
+$("#many").addEventListener("change", (e) => { blockManyCodes = e.target.checked; save(); });
+$("#sold").addEventListener("change", (e) => { blockSoldOut = e.target.checked; save(); });
+
+// ---------- Trạng thái trực tiếp ----------
+const ICON = { text: "💬", image: "🖼️", video: "🎬", file: "📎", recall: "↩️" };
+
+function stateLabel(it) {
+  switch (it.state) {
+    case "queued": return ["⏳ Đã nhận, chờ chuyển", "wait"];
+    case "sending": return [`📤 Đang chuyển ${it.done}/${it.total}`, "run"];
+    case "done": return ["✅ Đã chuyển", "ok"];
+    case "failed": return ["❌ Lỗi" + (it.note ? ": " + it.note : ""), "bad"];
+    default: return ["⏭ Bỏ qua" + (it.note ? ": " + it.note : ""), "skip"];
+  }
+}
+
+function renderLive(s) {
+  const dot = $("#conn");
+  const map = { connected: ["ok", "Đang chạy, đang nhận tin"], connecting: ["", "Đang kết nối Zalo..."], disconnected: ["bad", "Mất kết nối Zalo, đang thử nối lại"] };
+  const [cls, text] = map[s.connection] || map.connecting;
+  dot.className = "dot " + cls;
+  $("#connText").textContent = text;
+
+  $("#cRecv").textContent = s.stats.received;
+  $("#cPend").textContent = s.stats.pending;
+  $("#cDone").textContent = s.stats.forwarded;
+  $("#cFail").textContent = s.stats.failed;
+  $("#cSkip").textContent = s.stats.skipped;
+
+  $("#feed").replaceChildren(...(s.feed.length ? s.feed.map((it) => {
+    const [label, cls] = stateLabel(it);
+    const route = `${byId(it.mainId)?.name || it.mainId} → ${(it.to || []).join(", ")}`;
+    return h("li", {},
+      h("span", { class: "t" }, new Date(it.t).toLocaleTimeString("vi-VN")),
+      h("span", { class: "m", title: `${it.preview}\n${route}` }, `${ICON[it.kind] || "💬"} ${it.preview} `, h("span", { class: "g" }, "· " + route)),
+      h("span", { class: "s " + cls }, label));
+  }) : [h("div", { class: "empty-feed" }, "Chưa có tin nào kể từ khi tool chạy. Tin mới sẽ hiện ở đây.")]));
+}
+
+async function poll() {
+  try {
+    renderLive(await (await fetch("/api/status")).json());
+  } catch {
+    $("#conn").className = "dot bad";
+    $("#connText").textContent = "Không kết nối được tới tool";
+  }
+}
 
 // ---------- Khởi động ----------
 (async () => {
   const [g, cfg] = await Promise.all([fetch("/api/groups").then((r) => r.json()), fetch("/api/config").then((r) => r.json())]);
-  groups = g; rules = cfg.rules || []; removeKeywords = cfg.removeKeywords || [];
+  groups = g;
+  cfgRev = cfg.rev || 0;
+  rules = cfg.rules || [];
+  removeKeywords = cfg.removeKeywords || [];
+  blockKeywords = cfg.blockKeywords || [];
+  blockManyCodes = cfg.blockManyCodes !== false;
+  blockSoldOut = cfg.blockSoldOut !== false;
   $("#kw").value = removeKeywords.join("\n");
+  $("#block").value = blockKeywords.join("\n");
+  $("#many").checked = blockManyCodes;
+  $("#sold").checked = blockSoldOut;
   if (!rules.length) rules.push({ mainGroupId: "", subGroupIds: [] });
   render();
+  poll();
+  setInterval(poll, 1500);
 })();
 </script>
 </body>
